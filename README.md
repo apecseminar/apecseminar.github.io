@@ -1,4 +1,4 @@
-![](https://github.com/apecseminar/umn_logo.jpg) 
+![](https://github.com/apecseminar/apecseminar.github.io/umn_logo.jpg) 
 
 # Applied Economics Seminar Series 
 # University of Minnesota
