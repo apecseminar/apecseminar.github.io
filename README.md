@@ -3,7 +3,7 @@
 # Applied Economics Seminar Series 
 # University of Minnesota
 
-## News:
+## Announcements:
 
 - Figure out how to make discussion announcements into blog posts for the news
 
@@ -28,6 +28,8 @@ But, we kindly welcome attendance from students and faculty throughout the Unive
 Members of the Applied Economics department will recieve notification of upcoming speakers via department announcements. 
 For those outside the department, please follow the latest announcements and news (house on this website) for information on attendance. 
 
+The format of this seminar is both in-person and online (via zoom). Snack and goodies will be provided to in-person attendees in room 232 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
+
 A call for speakers occurs bi-annually at the start of each semester. 
 Currently there is no call for speakers. 
 
@@ -42,15 +44,23 @@ Please find a link to the call for speakers below. Doctoral students and masters
 
 ### 2023 Fall Schedule
 
-| Speaker      | Date | Title | Link to Poster |
-| :---        |    :----:   |     :----:   |     ---: |
-| Header      | Title       |  Host | Here's this   |
-| Paragraph   | Text        |  Host | And more      |
+| **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
+| :---        |    :----:   |   :----:   |    :----:   |    ---: |
+| TEMP      | Applied Economics, UMN   |   Sept. 7th   |  Title | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Sept. 21st       |   Title   | [Poster]()  |
+| TEMP  | Applied Economics, UMN    | Oct. 5th      |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Oct. 19th      |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Nov. 2nd     |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Nov. 16th      |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Nov. 30th      |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Dec. 14th      |   Title   | [Poster]()    |
+
+
 
 ### Past Seminar Schedules
 
-- [2023 Spring Schedule]()
-- [2022 Fall Schedule]()
+- [2023 Spring Schedule](/past_schedules/schedule_2023_spring.md)
+- [2022 Fall Schedule](/past_schedules/schedule_2022_fall.md)
 
 ## Seminar Organizer
 
@@ -60,7 +70,7 @@ If you have any questions or concerns related to the seminar series, you may cre
 
 The following is a list of the previous organizers of the APEC Seminar Series. 
 
-| Organizer      | Sessions | 
+| **Organizer**      | **Sessions** | 
 |   :----:   |     :----:   | 
 | [Ryan McWay](https://mcwayrm.github.io/)     | 2023 -- Present       |  
 | [Matthew Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)     | 2022 -- 2023       |  
@@ -74,14 +84,14 @@ Please raise issues through [Github Issues](https://github.com/apecseminar/apecs
 
 ### Seminars
 
-| Seminar      | Research Field(s) | Host | Submission Link |
+| **Seminar**      | **Research Field(s)** | **Host** | **Submission Link** |
 | :---        |    :----:   |     :----:   |     ---: |
 | Header      | Title       |  Host | Here's this   |
 | Paragraph   | Text        |  Host | And more      |
 
 ### Conferences
 
-| Conference      | Research Field(s) | Date |  Submission Link |
+| **Conference**      | **Research Field(s)** | **Date** |  **Submission Link** |
 | :---        |    :----:   |     :----:   |     ---: |
 | [Header](Test)      | Title       |  Host | Here's this   |
 | Paragraph   | Text        |  Host | And more      |
@@ -93,7 +103,5 @@ The seminar is hosted in room 232 in Ruttan Hall on the Saint Paul campus.
 Details on the seminar can be directed towards the seminar organizer, [Ryan McWay](https://mcwayrm.github.io/), via email. 
 
 
-<!--- 
-We would like to acknowledge the gratious support of funding through the COGS/CFANS funding source for making this seminar posssible. 
+We would like to acknowledge the gratious support of funding through the Applied Economics department for making this seminar posssible. 
 And to the Applied Economics department for hosting the seminar space.
--->
