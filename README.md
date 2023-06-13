@@ -1,7 +1,7 @@
-![](https://github.com/apecseminar/apecseminar.github.io/images/umn_logo.jpg) 
+![](/images/umn_logo.jpg) 
 
-# Applied Economics Seminar Series 
-# University of Minnesota
+# **Applied Economics Seminar Series**
+# at *the University of Minnesota*
 
 ## Announcements:
 
@@ -70,9 +70,10 @@ If you have any questions or concerns related to the seminar series, you may cre
 
 The following is a list of the previous organizers of the APEC Seminar Series. 
 
-| **Organizer**      | **Sessions** | 
+| **Organizers**      | **Sessions** | 
 |   :----:   |     :----:   | 
-| [Ryan McWay](https://mcwayrm.github.io/)     | 2023 -- Present       |  
+| [Ryan McWay](https://mcwayrm.github.io/)     | 2023 -- Present       | 
+| [Yanxu Long](https://yanxulong.github.io/)     | 2023       |  
 | [Matthew Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)     | 2022 -- 2023       |  
 | [Chris Boyd](https://www.chrismboyd.com/)   | 2021 -- 2022    | 
 
