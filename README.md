@@ -78,25 +78,23 @@ The following is a list of the previous organizers of the APEC Seminar Series.
 | [Chris Boyd](https://www.chrismboyd.com/)   | 2021 -- 2022    | 
 
 
-## Curated List of (Field) Related Seminars/Conferences:
+## Curated List of  Related Seminars/Conferences:
 
+Below are two lists of other seminars and conferences in economics. 
+This public good is to provide a resource where the most recent cutting-edge research is being presented, as well as database of places to submit your own research for feedback and dissemination.
 These two lists are continually updated. 
 Please raise issues through [Github Issues](https://github.com/apecseminar/apecseminar.github.io/issues) if (1) the list is outdated or (2) you would like make an addition. 
 
-### Seminars
+### [Seminars](/lists/seminars.md)
 
-| **Seminar**      | **Research Field(s)** | **Host** | **Submission Link** |
-| :---        |    :----:   |     :----:   |     ---: |
-| Header      | Title       |  Host | Here's this   |
-| Paragraph   | Text        |  Host | And more      |
+### [Conferences](/lists/conferences.md)
 
-### Conferences
 
-| **Conference**      | **Research Field(s)** | **Date** |  **Submission Link** |
-| :---        |    :----:   |     :----:   |     ---: |
-| [Header](Test)      | Title       |  Host | Here's this   |
-| Paragraph   | Text        |  Host | And more      |
+## Theory Thursday
 
+On the off-weeks when the APEC Seminar Series does not have a speaker, the department will be hosting Theory Thursday. 
+This is a forum to get feedback on your theoretical models hosted by professors in different sub-fields each session.
+For more details, please refer to the [Theory Thursday](/lists/theory_thursday.md) page. 
 
 ## Contact Information: 
 
