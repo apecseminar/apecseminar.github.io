@@ -7,13 +7,19 @@
 
 - Figure out how to make discussion announcements into blog posts for the news
 
+<!---
+Please find a link to the call for speakers below. Doctoral students and masters students are encouraged to present both early/preliminary work as a short presentation, as well as polished work in a longer format. 
+
+# [**CALL FOR SPEAKERS**](link...)
+-->
+
 ## Description: 
 
-Seminar for applied economics research hosted by the University of Minnesota. 
+The [Applied Economics Seminar Series](https://apecseminar.github.io/) presents applied economics research hosted by the University of Minnesota. 
 Speakers are primarly current and former students of the graduate program for Applied Economics at Minnesota. 
 As such, it is a forum for early career researchers to get feedback on their work at varying stages. 
 This includes preliminary results to polished job market papers. 
-The APEC Seminar Series has a storied tradition within the department dating back to XXXX. 
+The APEC Seminar Series has a storied tradition within the department dating back to 2011. 
 
 Connect with us:
 - Via [UMN Department Website](https://apec.umn.edu/)
@@ -32,12 +38,6 @@ The format of this seminar is both in-person and online (via zoom). Snack and go
 
 A call for speakers occurs bi-annually at the start of each semester. 
 Currently there is no call for speakers. 
-
-<!---
-Please find a link to the call for speakers below. Doctoral students and masters students are encouraged to present both early/preliminary work as a short presentation, as well as polished work in a longer format. 
-
-# [CALL FOR SPEAKERS](link...)
--->
 
 
 ## Speaker Schedule: 

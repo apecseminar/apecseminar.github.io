@@ -21,6 +21,7 @@ Below is a list of related seminars in alphabetical order.
 | [CRRESS Seminar Series](https://labordynamicsinstitute.github.io/crress/)        |    Reproducibility   |    Conference on Reproducibility and Replicability in Economics and Social Sciences |
 | [Crypto and Blockchain Economics Research Forum](https://www.cber-forum.org/)        |    Machine Learning, Monetary Policy   |  Independent   |
 | [Climate Change, Macroeconomics, and Finance](https://e-axes.org/webinars/)        |    Macroeconomics, Environment, Finance   |  E-Axes Forum   |
+| [DENeB Seminar Series on Development Economics](https://www.deveconberlin.org/activities/seminar_series)        |    Development   |  Development Economics Network Berlin   |
 | [Digital Development Dialogue Seminar](https://www.uni-goettingen.de/de/3d+seminar/625891.html)        |    Development   |  Georg-August-Universitat Gottingen   |
 | [Economics of LGBTQ+ Individuals Virtual Seminar Series](https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars)        |    Gender   |  American Economic Association   |
 | [Electronic Health Economics Colloquium](https://www.ehealthecon.org/)        |    Health   |  Independent   |
@@ -82,7 +83,9 @@ Below is a list of related seminars in alphabetical order.
 | [Virtual Seminar on Economic Theory](https://sites.google.com/view/vset)        |    Theory  |    University of Southhampton |
 | [Virtual Seminar on the Economics of Risky Health Behaviors](https://publicpolicy.cornell.edu/impact/centers-programs-institutes/seminar/virtual-seminars/)        |    Health  |    Cornell University |
 | [Wednesday Seminar Series](https://publicchoice.gmu.edu/events)        |    General  |    George Mason University |
+| [WIDER Seminar Series](https://www.wider.unu.edu/events)        |    Development  |    UNU-WIDER |
 | [Workshop on Entrepreneurial Finance and Innovation](https://www.workshop-efi.com/)        |    Finance  |    Independent |
+| [Workshop in Applied Microeconomics](https://economics.ucla.edu/workshops/albert-family-fund-seminar-in-applied-microeconomics/)        |    Microeconomics  |    UCLA |
 | [Young Development Economists Webinar Series](https://sites.google.com/view/young-development-seminars)        |    Development  |    University of Milano Bicocca, University of Pavia |
 | [YSI Economic History Graduate Webinar](https://ysi.ineteconomics.org/project/6040d27c252c4204141c59f9)        |    History  |    Institute for New Economic Thinking |
 
