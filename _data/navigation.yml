@@ -1,0 +1,13 @@
+# Main Navigation Links
+main:
+  - title: "Theory Thursday"
+    url: /lists/theory_thursday/
+
+  - title: "Related Seminars"
+    url: /lists/seminars/    
+    
+  - title: "Related Conferences"
+    url: /lists/conferences/    
+
+
+  
