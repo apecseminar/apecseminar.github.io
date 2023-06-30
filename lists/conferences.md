@@ -4,6 +4,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 
 | **Conference**      | **Research Field(s)** | **Submission Date** | **Conference Date** |
 | :---        |    :----:   |     :----:   |    ---: |
+| [African Association of Environmental and Resource Economists Conference](https://afaere.org/events/category/conference/)   | Environment        |  July | November |
 | [Agriucltural and Applied Economics Association Annual Meeting](https://www.aaea.org/meetings)   | General        |  March | July |
 | [American Social Science Association Annual Meeting](https://www.aeaweb.org/conference/)   | General        |  March | January |
 | [Annual Australasian AID Conference](https://devpolicy.crawford.anu.edu.au/annual-australasian-aid-conference)   | Development        |  June | December |
@@ -25,6 +26,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Canadian Economics Association Annual Meeting](https://www.economics.ca/cpages/cea2023)   | General       |  Feburary | June |
 | [CEPR Annual Symposium of the Development Economics Programme](https://cepr.org/events/event-series/development-economics-symposium/cepr-development-economics-annual-symposium-14)   | Development        |  August | October |
 | [CESifo Junior Workshop on Big Data](https://cepr.org/events/event-series/development-economics-symposium/cepr-development-economics-annual-symposium-14)   | Big Data        |  May | October |
+| [Congress of the Asian Association of Environmental and Resource Economics](https://aaere.org/events/)   | Environment        |  May | August |
 | [CREEA - ACERE Annual PhD and Early Career Reseacher Workshop](https://sites.google.com/view/creeaacere/workshops)   | Environment        |  March | June |
 | [CSAE Economic Development in Africa Conference](https://www.cvent.com/c/abstracts/eaf1fb58-ec91-4459-9c54-a6ee6f684ada)   | Development        |  September | March |
 | [CU Environmental and Resource Economics Workshop](https://www.colorado.edu/economics/news-events/cu-environmental-resource-economics-workshop)   | Enivornment        |  July | September |
@@ -39,7 +41,9 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Heartland Environmental and Resource Economics Workshop](https://publish.illinois.edu/heartland/)      | Environment    |  June | October |
 | [Interdisciplinary PhD Workshop in Sustainable Development](https://blogs.cuit.columbia.edu/sdds/ipwsd/)      | Development    |  January | March |
 | [International Atlantic Economic Society Conference](https://www.iaes.org/)      | General    |  June | March |
+| [International Congress on Conservation Biology](https://conbio.org/mini-sites/iccb-2023/)      | Environment    |  ? | July |
 | [IZA Conference in Labor Economics ](https://www.iza.org/)      | Labor    |  ? | July |
+| [LSE Environment Week](https://www.theigc.org/events/lse-environment-week-2023)      | Environement    |  June | September |
 | [LSE Environment Week](https://www.theigc.org/events/lse-environment-week-2023)      | Environement    |  June | September |
 | [Macro Asset Pricing Conference](https://carlsonschool.umn.edu/departments/finance-department/macro-asset-pricing-conference)      | Marcoeconomics, Finance    |  ? | May |
 | [Macroeconomics and Monetary Policy Conference](https://www.frbsf.org/economic-research/events/2023/march/macroeconomics-and-monetary-policy-2023/)      | Marcoeconomics    |  ? | March |
@@ -67,7 +71,8 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Sustainability & Development Conference](https://umsusdev.org/2022-conference/)      | Environment       |  October | January |
 | [The Occasional Workshop in Environmental and Resource Economics](https://occasionalworkshop.weebly.com/)      | Environment       |  January | April |
 | [United Nations Science Day](https://www.un.org/en/observances/world-science-day)      | General       |  ? | July | 
-| [Women in International Economics Conference](https://sites.google.com/view/wie-conference/women-in-international-economics-conference)      | International, Gender       |  May | October | 
+| [Women in International Economics Conference](https://sites.google.com/view/wie-conference/women-in-international-economics-conference)      | International, Gender       |  May | October |
+| [World Congress of Environmental and Resource Economists](https://www.eaere.org/wcerea/)      | Environment      |  ? | July | 
 | [World Congress of the International Economic Association](https://iea-world.org/event/another-event/)      | General       |  ? | December | 
 | [Western Economic Association International Annual Conference](https://weai.org/conferences/)      | General      |  ? | July | 
 | [WHY Utah Symposium on Policy Evaluation and Causal Inference](http://pped.org/why/)      | Econometrics      | January  | August | 
