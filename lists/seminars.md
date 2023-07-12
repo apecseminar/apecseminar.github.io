@@ -22,6 +22,7 @@ Below is a list of related seminars in alphabetical order.
 | [Crypto and Blockchain Economics Research Forum](https://www.cber-forum.org/)        |    Machine Learning, Monetary Policy   |  Independent   |
 | [Climate Change, Macroeconomics, and Finance](https://e-axes.org/webinars/)        |    Macroeconomics, Environment, Finance   |  E-Axes Forum   |
 | [DENeB Seminar Series on Development Economics](https://www.deveconberlin.org/activities/seminar_series)        |    Development   |  Development Economics Network Berlin   |
+| [Development Workshop at Michigan](https://devecon.umich.edu/events/)        |    Development   |  University of Michigan   |
 | [Digital Development Dialogue Seminar](https://www.uni-goettingen.de/de/3d+seminar/625891.html)        |    Development   |  Georg-August-Universitat Gottingen   |
 | [Economics of LGBTQ+ Individuals Virtual Seminar Series](https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars)        |    Gender   |  American Economic Association   |
 | [Electronic Health Economics Colloquium](https://www.ehealthecon.org/)        |    Health   |  Independent   |
