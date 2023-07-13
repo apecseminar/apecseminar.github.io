@@ -70,6 +70,7 @@ Below is a list of related seminars in alphabetical order.
 | [Research Seminar Series of the IOS Economic Department](https://leibniz-ios.de/en/knowledge-transfer/events/event-series/research-seminar-series-of-the-ios-economics-department)        |    General    |    Leibniz Institute for East and Southeast European Studies |
 | [Seminar in Water Economics onLLine](https://erikansink.com/swell/)        |    Environment   |    Independent |
 | [Society for Financial Econometrics Seminar Series](https://www.stern.nyu.edu/sofie-seminars)        |    Finance, Econometrics   |    New York University |
+| [The Economics of Migration Junior Seminar](https://sites.google.com/view/the-economics-of-migration/home)        |    Migration   |    Independent |
 | [Tobacco Online Policy Seminar](https://www.tobaccopolicy.org/)        |    Health, Policy   |    Independent |
 | [Trade and Development Seminar](https://apec.umn.edu/trade-development-seminars)        |    Development, Trade   |    University of Minnesota |
 | [University of Crete Economics Research Seminars](https://economics.soc.uoc.gr/en/events/259/departmental-seminars)        |    General  |    University of Crete |
