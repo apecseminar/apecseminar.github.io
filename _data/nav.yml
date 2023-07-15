@@ -1,13 +1,13 @@
 # Main Navigation Links
 main:
   - title: "Theory Thursday"
-    href: /lists/theory_thursday.md
+    href: "/lists/theory_thursday.md"
 
   - title: "Related Seminars"
-    href: /lists/seminars.md  
+    href: "/lists/seminars.md" 
     
   - title: "Related Conferences"
-    href: /lists/conferences.md    
+    href: "/lists/conferences.md"    
 
   - title: "Diversity, Equity, & Inclusion"
-    href: /lists/dei.md
+    href: "/lists/dei.md"
