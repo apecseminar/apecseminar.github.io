@@ -96,6 +96,14 @@ On the off-weeks when the APEC Seminar Series does not have a speaker, the depar
 This is a forum to get feedback on your theoretical models hosted by professors in different sub-fields each session.
 For more details, please refer to the [Theory Thursday](/lists/theory_thursday.md) page. 
 
+
+# Diversity, Equity, and Inclusion (DEI)
+
+The Applied Economics department is a welcoming and inclusive environment for all members who wish to respectfully participate. 
+We recognize the inequities of disadvantaged groups in the research process. 
+As such, we strongly encourage and support the active presentation of research by researchers who identify as a member of a disadvantaged or minority group. 
+For more details, please refer to the [DEI](/lists/dei.md) page.
+
 ## Contact Information: 
 
 The seminar is hosted in room 232 in Ruttan Hall on the Saint Paul campus. 
