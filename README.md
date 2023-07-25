@@ -56,6 +56,7 @@ Currently there is no call for speakers.
 | TEMP  | Applied Economics, UMN    | Dec. 14th      |   Title   | [Poster]()    |
 
 
+TODO: Create a google calendar schedule for both seminar and theory thursday. Add as a calendar below the schedule.
 
 ### Past Seminar Schedules
 
@@ -97,7 +98,7 @@ This is a forum to get feedback on your theoretical models hosted by professors 
 For more details, please refer to the [Theory Thursday](/lists/theory_thursday.md) page. 
 
 
-# Diversity, Equity, and Inclusion (DEI)
+## Diversity, Equity, and Inclusion (DEI)
 
 The Applied Economics department is a welcoming and inclusive environment for all members who wish to respectfully participate. 
 We recognize the inequities of disadvantaged groups in the research process. 

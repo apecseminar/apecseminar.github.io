@@ -7,6 +7,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [African Association of Environmental and Resource Economists Conference](https://afaere.org/events/category/conference/)   | Environment        |  July | November |
 | [Agriucltural and Applied Economics Association Annual Meeting](https://www.aaea.org/meetings)   | General        |  March | July |
 | [American Social Science Association Annual Meeting](https://www.aeaweb.org/conference/)   | General        |  March | January |
+| [American Sociological Association Annual Meeting](https://www.asanet.org/annual-meeting/2023-annual-meeting/)   | General        |  ? | August |
 | [Annual Australasian AID Conference](https://devpolicy.crawford.anu.edu.au/annual-australasian-aid-conference)   | Development        |  June | December |
 | [Annual Bank Conference on Development Economics](https://www.worldbank.org/en/events/2018/10/23/annual-bank-conference-on-development-economics-2019-multilateralism-past-present-and-future#1)   | Development        |  March | July | 
 | [Annual CBER Conference](https://www.cber-forum.org/conference2024)   | Machine Learning, Monetary Policy        |  ? | May | 
@@ -30,6 +31,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [CREEA - ACERE Annual PhD and Early Career Reseacher Workshop](https://sites.google.com/view/creeaacere/workshops)   | Environment        |  March | June |
 | [CSAE Economic Development in Africa Conference](https://www.cvent.com/c/abstracts/eaf1fb58-ec91-4459-9c54-a6ee6f684ada)   | Development        |  September | March |
 | [CU Environmental and Resource Economics Workshop](https://www.colorado.edu/economics/news-events/cu-environmental-resource-economics-workshop)   | Enivornment        |  July | September |
+| [Data-Intensive Research Conference](https://lcc.umn.edu/DIRC)   | Big Data       |  ? | August | 
 | [Development Economics Network of Berlin (DENeB) Annual PhD Workshop](https://www.deveconberlin.org/activities/phd_workshop)   | Development        |  ? | March | 
 | [Eastern Economic Association Annual Meeting](https://www.ramapo.edu/eea/conference/)   | General        |  September | Feburary | 
 | [Economic Science Association World Conference](https://www.economicscience.org/page/conferences-public)   | Behavior        |  March | June | 
@@ -64,6 +66,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Opportunity & Inclusive Growth Institute Research Conference](https://www.minneapolisfed.org/events/2022/fall-2022-institute-research-conference)      | General, Growth      |  ? | November | 
 | [Pacific Conference for Development Economics](https://cega.berkeley.edu/event/pacdev-2023/)      | Development       |  December | March |
 | [Pacific Update](https://devpolicy.crawford.anu.edu.au/pacific-update)      | General, Development       |  March | June |
+| [Population Assocation of America Annual Meeting](https://www.populationassociation.org/events-publications/future-past-meetings)      | Demographics       |  ? | April |
 | [RISE Annual Conference](https://riseprogramme.org/events/rise-annual-conference-2023)      | Education       |  June | September |
 | [Royal Economic Society Annual Conference](https://res.org.uk/event-listing/res-2023-annual-conference/)      | General       |  ? | April |
 | [Southern Economics Association Annual Meeting](https://www.southerneconomic.org/event/7662b305-ad92-474d-8f2c-bce1240b9858/summary)      | General       |  March | November |
