@@ -35,6 +35,7 @@ Below is a list of related seminars in alphabetical order.
 | [Global Virtual Seminar Series on FinTech](https://finpolicy.georgetown.edu/events/global-virtual-seminar-series-on-fintech/)        |    Finance   |  Georgetown University  |
 | [George Washington Forecasting Seminar Series](https://cer.columbian.gwu.edu/past-forecasting-presentations-and-events)        |    Econometrics   |  George Washington University  |
 | [Graduate Student Chinese Economy Workshop](https://sites.google.com/view/grad-student-chinese-economy/home?authuser=0)        |    General   |  Independent  |
+| [Graduate Students in International Political Economy (GSIPE) Workshop](https://gsipe-workshop.github.io/)        |    International, Policy   |  Independent  |
 | [Group for Research in Decision Analysis Seminar](https://www.gerad.ca/en/events)        |    Behavior   |  Group for Research in Decision Analysis  |
 | [Higher School of Economics Research Seminars](https://sites.google.com/view/hse-econ-seminar)        |    General   |  Higher School of Economics  |
 | [HKU-UBC Summer Microeconomics Seminars](http://www.sef.hku.hk/~wsuen/research/sms.html)        |    Microeconomics   |  Hong Kong University, University of British Columbia  |
