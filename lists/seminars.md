@@ -69,6 +69,7 @@ Below is a list of related seminars in alphabetical order.
 | [Regional and Urban Economics Seminar](http://www.ub.edu/aqr/seminaris_en.php)        |    Urban    |    Universitat de Barcelona |
 | [Replicating Empirical Studies in Economics Webinar Series](https://replication.uni-goettingen.de/wiki/index.php/Webinar_series:_Replicating_empirical_studies_in_economics_-_an_opportunity_for_students)        |    Replication    |    Institute for New Economic Thinking Young Scholars |
 | [Research Seminar Series of the IOS Economic Department](https://leibniz-ios.de/en/knowledge-transfer/events/event-series/research-seminar-series-of-the-ios-economics-department)        |    General    |    Leibniz Institute for East and Southeast European Studies |
+| [RUSH Graduate Student Brownbag](https://grad-student-urban-brownbag.netlify.app/)        |    Urban    |    Independent |
 | [Seminar in Water Economics onLLine](https://erikansink.com/swell/)        |    Environment   |    Independent |
 | [Society for Financial Econometrics Seminar Series](https://www.stern.nyu.edu/sofie-seminars)        |    Finance, Econometrics   |    New York University |
 | [The Economics of Migration Junior Seminar](https://sites.google.com/view/the-economics-of-migration/home)        |    Migration   |    Independent |
