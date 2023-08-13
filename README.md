@@ -3,15 +3,7 @@
 # **Applied Economics Seminar Series**
 # at *the University of Minnesota*
 
-## Announcements:
-
-- Figure out how to make discussion announcements into blog posts for the news
-
-<!---
-Please find a link to the call for speakers below. Doctoral students and masters students are encouraged to present both early/preliminary work as a short presentation, as well as polished work in a longer format. 
-
-# [**CALL FOR SPEAKERS**](link...)
--->
+# [**CALL FOR SPEAKERS (Click Me)**](https://docs.google.com/forms/d/e/1FAIpQLSd9WDlWiiQd5w0k9BYdUhYFF8_V2ZWpkzPiikKMIKxtr2yVpQ/)
 
 ## Description: 
 
@@ -34,14 +26,15 @@ But, we kindly welcome attendance from students and faculty throughout the Unive
 Members of the Applied Economics department will recieve notification of upcoming speakers via department announcements. 
 For those outside the department, please follow the latest announcements and news (house on this website) for information on attendance. 
 
-The format of this seminar is both in-person and online (via zoom). Snack and goodies will be provided to in-person attendees in room 232 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
+The seminar is a one slot with a 40 minute presentation, 10 minutes of disscusant commentary and 10 minutes of general Q/A. The seminar is offered both in-person and via online (viz., Zoom) attendance. Snack and goodies will be provided to in-person attendees in room 232 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
 
 A call for speakers occurs bi-annually at the start of each semester. 
-Currently there is no call for speakers. 
+There is an active call for speakers from Aug. 14th through Aug. 26th. 
 
 
 ## Speaker Schedule: 
 
+<!--
 ### 2023 Fall Schedule
 
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
@@ -57,6 +50,7 @@ Currently there is no call for speakers.
 
 
 TODO: Create a google calendar schedule for both seminar and theory thursday. Add as a calendar below the schedule.
+-->
 
 ### Past Seminar Schedules
 
@@ -93,12 +87,16 @@ Please raise issues through [Github Issues](https://github.com/apecseminar/apecs
 
 ## Theory Thursday
 
+**This section is currently under development...**
+
 On the off-weeks when the APEC Seminar Series does not have a speaker, the department will be hosting Theory Thursday. 
 This is a forum to get feedback on your theoretical models hosted by professors in different sub-fields each session.
 For more details, please refer to the [Theory Thursday](/lists/theory_thursday.md) page. 
 
 
 ## Diversity, Equity, and Inclusion (DEI)
+
+**This section is currently under development...**
 
 The Applied Economics department is a welcoming and inclusive environment for all members who wish to respectfully participate. 
 We recognize the inequities of disadvantaged groups in the research process. 
