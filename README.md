@@ -34,19 +34,21 @@ There is an active call for speakers from Aug. 14th through Aug. 26th.
 
 ## Speaker Schedule: 
 
+**Seminars will occur at 2-3 PM Central Time on Wednesdays in Ruttan 232.**
+
 <!--
 ### 2023 Fall Schedule
 
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
-| TEMP      | Applied Economics, UMN   |   Sept. 7th   |  Title | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Sept. 21st       |   Title   | [Poster]()  |
-| TEMP  | Applied Economics, UMN    | Oct. 5th      |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Oct. 19th      |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Nov. 2nd     |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Nov. 16th      |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Nov. 30th      |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Dec. 14th      |   Title   | [Poster]()    |
+| TEMP      | Applied Economics, UMN   |   Sept. 6th   |  Title | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Sept. 20th       |   Title   | [Poster]()  |
+| TEMP  | Applied Economics, UMN    | Oct. 4th      |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Oct. 18th      |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Nov. 1st     |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Nov. 15th      |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Nov. 29th      |   Title   | [Poster]()    |
+| TEMP  | Applied Economics, UMN    | Dec. 13th      |   Title   | [Poster]()    |
 
 
 TODO: Create a google calendar schedule for both seminar and theory thursday. Add as a calendar below the schedule.
