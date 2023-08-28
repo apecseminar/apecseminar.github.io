@@ -29,8 +29,10 @@ __pycache__
 # Content In-Progress
 
 
-# Notes to detemine speakers
+# Notes to detemine speakers, images, and expenses
 notes/
+images/
+expenses/
 
 # Attendance 
 attendance/
