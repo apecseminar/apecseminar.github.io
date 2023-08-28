@@ -34,7 +34,9 @@ There is an active call for speakers from Aug. 14th through Aug. 26th.
 
 ## Speaker Schedule: 
 
-**Seminars will occur at 2-3 PM Central Time on Wednesdays in Ruttan 232.**
+**Seminars will occur at 2-3 PM Central Time on Wednesdays in Ruttan 119.**
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23E67C73&ctz=America%2FChicago&showTabs=1&showPrint=0&showNav=1&mode=AGENDA&src=Y2U5MjMwYmQwZWNkZWI0YjBlODg2MzcyYjAwN2YxNDk3NDU4ZGQwZjEwNDY5YWMxOWU3ZDVhZmJkYjMwNDUyZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!--
 ### 2023 Fall Schedule
@@ -53,6 +55,7 @@ There is an active call for speakers from Aug. 14th through Aug. 26th.
 
 TODO: Create a google calendar schedule for both seminar and theory thursday. Add as a calendar below the schedule.
 -->
+
 
 ### Past Seminar Schedules
 
