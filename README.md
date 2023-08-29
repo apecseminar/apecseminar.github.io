@@ -52,8 +52,7 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 | Jeff Bloem  | Applied Economics, UMN    | Nov. 1st     |   Myths and Facts about Agri-Food Value Chains: A Respondent-Driven Sampling Approach   | [Poster](/posters/2023_fall/jeff_bloem_231101.pdf)    |
 | Wahed Rahman  | Applied Economics, UMN    | Nov. 15th      |   TBD   | [Poster]()    |
 | Stephen Pitts  | Applied Economics, UMN    | Nov. 29th      |   Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico   | [Poster](/posters/2023_fall/stephen_pitts_231129.pdf)    |
-| Caitlyn Keo  | Applied Economics, UMN    | Dec. 13th      |   Reforming Child Protection Services: The Effect of Differential Response on Subsequent Maltreatment for Reported Children
-  | [Poster](/posters/2023_fall/caitlyn_keo_231213.pdf)    |
+| Caitlyn Keo  | Applied Economics, UMN    | Dec. 13th      |   Reforming Child Protection Services: The Effect of Differential Response on Subsequent Maltreatment for Reported Children | [Poster](/posters/2023_fall/caitlyn_keo_231213.pdf)    |
 
 
 ### Past Seminar Schedules
