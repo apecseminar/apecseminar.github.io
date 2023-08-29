@@ -40,23 +40,20 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23E67C73&ctz=America%2FChicago&showTabs=1&showPrint=0&showNav=1&mode=AGENDA&src=Y2U5MjMwYmQwZWNkZWI0YjBlODg2MzcyYjAwN2YxNDk3NDU4ZGQwZjEwNDY5YWMxOWU3ZDVhZmJkYjMwNDUyZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<!--
+
 ### 2023 Fall Schedule
 
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
-| TEMP      | Applied Economics, UMN   |   Sept. 6th   |  Title | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Sept. 20th       |   Title   | [Poster]()  |
-| TEMP  | Applied Economics, UMN    | Oct. 4th      |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Oct. 18th      |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Nov. 1st     |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Nov. 15th      |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Nov. 29th      |   Title   | [Poster]()    |
-| TEMP  | Applied Economics, UMN    | Dec. 13th      |   Title   | [Poster]()    |
-
-
-TODO: Create a google calendar schedule for both seminar and theory thursday. Add as a calendar below the schedule.
--->
+| Rodrigo Franco     | Applied Economics, UMN   |   Sept. 6th   |  Estimating Treatment Effects, with Less Conservative Standard Errors An Empirical Approach to Borusyak, Jararvel, and Spiess (2021) | [Poster](/posters/2023_fall/rodrigo_franco_230906.pdf)    |
+| Matt Bombyk  | Applied Economics, UMN    | Sept. 20th       |   Minimum Wage Inflation Indexing and Employment   | [Poster](/posters/2023_fall/matt_bombyk_230920.pdf)  |
+| Hosam Ibrahim  | Applied Economics, UMN    | Oct. 4th      |   Matching prior DiD and sampling: Designing the evaluation for the Morocco Pioneer School Program  | [Poster](/posters/2023_fall/hosam_ibrahim_231004.pdf)    |
+| Aiden Opatz  | Applied Economics, UMN    | Oct. 18th      |   Hurricanes and Human Migration   | [Poster](/posters/2023_fall/aiden_opatz_231018.pdf)    |
+| Jeff Bloem  | Applied Economics, UMN    | Nov. 1st     |   Myths and Facts about Agri-Food Value Chains: A Respondent-Driven Sampling Approach   | [Poster](/posters/2023_fall/jeff_bloem_231101.pdf)    |
+| Wahed Rahman  | Applied Economics, UMN    | Nov. 15th      |   TBD   | [Poster]()    |
+| Stephen Pitts  | Applied Economics, UMN    | Nov. 29th      |   Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico   | [Poster](/posters/2023_fall/stephen_pitts_231129.pdf)    |
+| Caitlyn Keo  | Applied Economics, UMN    | Dec. 13th      |   Reforming Child Protection Services: The Effect of Differential Response on Subsequent Maltreatment for Reported Children
+  | [Poster](/posters/2023_fall/caitlyn_keo_231213.pdf)    |
 
 
 ### Past Seminar Schedules
