@@ -50,7 +50,7 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 | Hosam Ibrahim  | Applied Economics, UMN    | Oct. 4th      |   Matching prior DiD and sampling: Designing the evaluation for the Morocco Pioneer School Program  | [Poster](/posters/2023_fall/hosam_ibrahim_231004.pdf)    |
 | Aiden Opatz  | Applied Economics, UMN    | Oct. 18th      |   Hurricanes and Human Migration   | [Poster](/posters/2023_fall/aiden_opatz_231018.pdf)    |
 | Jeff Bloem  | Applied Economics, UMN    | Nov. 1st     |   Myths and Facts about Agri-Food Value Chains: A Respondent-Driven Sampling Approach   | [Poster](/posters/2023_fall/jeff_bloem_231101.pdf)    |
-| Wahed Rahman  | Applied Economics, UMN    | Nov. 15th      |   TBD   | [Poster]()    |
+| Wahed Rahman  | Applied Economics, UMN    | Nov. 15th      |   The Mode of Testing and Learning Outcomes: Evidence from In-person and Phone tests   | [Poster](/posters/2023_fall/wahed_rahman_231115.pdf)    |
 | Stephen Pitts  | Applied Economics, UMN    | Nov. 29th      |   Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico   | [Poster](/posters/2023_fall/stephen_pitts_231129.pdf)    |
 | Caitlyn Keo  | Applied Economics, UMN    | Dec. 13th      |   Reforming Child Protection Services: The Effect of Differential Response on Subsequent Maltreatment for Reported Children | [Poster](/posters/2023_fall/caitlyn_keo_231213.pdf)    |
 
