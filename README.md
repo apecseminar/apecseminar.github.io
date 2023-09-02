@@ -41,7 +41,7 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23E67C73&ctz=America%2FChicago&showTabs=1&showPrint=0&showNav=1&mode=AGENDA&src=Y2U5MjMwYmQwZWNkZWI0YjBlODg2MzcyYjAwN2YxNDk3NDU4ZGQwZjEwNDY5YWMxOWU3ZDVhZmJkYjMwNDUyZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-### 2023 Fall Schedule
+### 2023 Fall Seminar Schedule
 
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
@@ -55,10 +55,31 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 | Caitlyn Keo  | Applied Economics, UMN    | Dec. 13th      |   Reforming Child Protection Services: The Effect of Differential Response on Subsequent Maltreatment for Reported Children | [Poster](/posters/2023_fall/caitlyn_keo_231213.pdf)    |
 
 
-### Past Seminar Schedules
+## Skill Series
+
+On the off-weeks when the APEC Seminar Series does not have a speaker, the department will be hosting the APEC Skill Series. 
+This is a workshop-style series featuring students, faculty, and staff from the APEC department  offering a variety of presentations and demonstrations for to teach and develop technical skills, soft skills, and mathematical/ course-related skills useful for an applied economist. 
+
+Please find the current list of skills presenters below:
+
+### 2023 Fall Workshop Schedule
+
+| **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
+| :---        |    :----:   |   :----:   |    :----:   |    ---: |
+| Lifeng Ren     | Applied Economics, UMN   |   Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    |
+| Rodrigo Franco     | Applied Economics, UMN   |   Sept. 27th   |  Covariate Selection and the Doubly Robust Estimator | [Poster]()    |
+| TBD    | TBD   |   Oct. 11th   |  TBD | [Poster]()    | 
+| TBD    | TBD   |   Oct. 25th   |  TBD | [Poster]()    | 
+| TBD    | TBD   |   Nov. 8th   |  TBD | [Poster]()    | 
+| TBD    | TBD   |   Nov. 22nd   |  TBD | [Poster]()    | 
+| TBD    | TBD   |   Dec. 6th   |  TBD | [Poster]()    | 
+
+
+## Past Seminar & Skill Series Schedules
 
 - [2023 Spring Schedule](/past_schedules/schedule_2023_spring.md)
 - [2022 Fall Schedule](/past_schedules/schedule_2022_fall.md)
+
 
 ## Seminar Organizer
 
@@ -86,13 +107,6 @@ Please raise issues through [Github Issues](https://github.com/apecseminar/apecs
 ### [Seminars](/lists/seminars.md)
 
 ### [Conferences](/lists/conferences.md)
-
-
-## Skill Series
-
-On the off-weeks when the APEC Seminar Series does not have a speaker, the department will be hosting Theory Thursday. 
-This is a forum to get feedback on your theoretical models hosted by professors in different sub-fields each session.
-For more details, please refer to the [APEC Skill Series](/lists/skill_series.md) page. 
 
 
 ## Diversity, Equity, and Inclusion (DEI)
