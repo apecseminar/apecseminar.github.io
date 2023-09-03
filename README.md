@@ -45,14 +45,14 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
-| Rodrigo Franco     | Applied Economics, UMN   |   Sept. 6th   |  Estimating Treatment Effects, with Less Conservative Standard Errors An Empirical Approach to Borusyak, Jararvel, and Spiess (2021) | [Poster](/posters/2023_fall/rodrigo_franco_230906.pdf)    |
-| Matt Bombyk  | Applied Economics, UMN    | Sept. 20th       |   Minimum Wage Inflation Indexing and Employment   | [Poster](/posters/2023_fall/matt_bombyk_230920.pdf)  |
-| Hosam Ibrahim  | Applied Economics, UMN    | Oct. 4th      |   Matching prior DiD and sampling: Designing the evaluation for the Morocco Pioneer School Program  | [Poster](/posters/2023_fall/hosam_ibrahim_231004.pdf)    |
-| Aiden Opatz  | Applied Economics, UMN    | Oct. 18th      |   Hurricanes and Human Migration   | [Poster](/posters/2023_fall/aiden_opatz_231018.pdf)    |
-| Jeff Bloem  | Applied Economics, UMN    | Nov. 1st     |   Myths and Facts about Agri-Food Value Chains: A Respondent-Driven Sampling Approach   | [Poster](/posters/2023_fall/jeff_bloem_231101.pdf)    |
-| Wahed Rahman  | Applied Economics, UMN    | Nov. 15th      |   The Mode of Testing and Learning Outcomes: Evidence from In-person and Phone tests   | [Poster](/posters/2023_fall/wahed_rahman_231115.pdf)    |
-| Stephen Pitts  | Applied Economics, UMN    | Nov. 29th      |   Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico   | [Poster](/posters/2023_fall/stephen_pitts_231129.pdf)    |
-| Caitlyn Keo  | Applied Economics, UMN    | Dec. 13th      |   Reforming Child Protection Services: The Effect of Differential Response on Subsequent Maltreatment for Reported Children | [Poster](/posters/2023_fall/caitlyn_keo_231213.pdf)    |
+| [Rodrigo Franco](https://www.rodrigofrancor.com/)     | Applied Economics, UMN   |   Sept. 6th   |  Estimating Treatment Effects, with Less Conservative Standard Errors An Empirical Approach to Borusyak, Jararvel, and Spiess (2021) | [Poster](/posters/2023_fall/rodrigo_franco_230906.pdf)    |
+| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)  | Applied Economics, UMN    | Sept. 20th       |   Minimum Wage Inflation Indexing and Employment   | [Poster](/posters/2023_fall/matt_bombyk_230920.pdf)  |
+| [Hosam Ibrahim](https://www.linkedin.com/in/hosam-ibrahim-b834522b)  | Applied Economics, UMN    | Oct. 4th      |   Matching prior DiD and sampling: Designing the evaluation for the Morocco Pioneer School Program  | [Poster](/posters/2023_fall/hosam_ibrahim_231004.pdf)    |
+| [Aiden Opatz](https://apec.umn.edu/people/aiden-opatz)  | Applied Economics, UMN    | Oct. 18th      |   Hurricanes and Human Migration   | [Poster](/posters/2023_fall/aiden_opatz_231018.pdf)    |
+| [Jeff Bloem](https://jeffbloem.wordpress.com/)  | IFPRI    | Nov. 1st     |   Myths and Facts about Agri-Food Value Chains: A Respondent-Driven Sampling Approach   | [Poster](/posters/2023_fall/jeff_bloem_231101.pdf)    |
+| [Wahed Rahman](https://www.kwrahman.com/)  | Oxford University    | Nov. 15th      |   The Mode of Testing and Learning Outcomes: Evidence from In-person and Phone tests   | [Poster](/posters/2023_fall/wahed_rahman_231115.pdf)    |
+| [Stephen Pitts](https://spittssj.github.io/)  | Applied Economics, UMN    | Nov. 29th      |   Sweet and Timely Insurance: The Role of Honey in Reducing Coffee Producer Food Insecurity Exposure in Mexico   | [Poster](/posters/2023_fall/stephen_pitts_231129.pdf)    |
+| [Caitlyn Keo](https://www.linkedin.com/in/caitlyn-keo)  | Applied Economics, UMN    | Dec. 13th      |   Reforming Child Protection Services: The Effect of Differential Response on Subsequent Maltreatment for Reported Children | [Poster](/posters/2023_fall/caitlyn_keo_231213.pdf)    |
 
 
 ## Skill Series
@@ -64,15 +64,15 @@ Please find the current list of skills presenters below:
 
 ### 2023 Fall Workshop Schedule
 
-| **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
-| :---        |    :----:   |   :----:   |    :----:   |    ---: |
-| Lifeng Ren     | Applied Economics, UMN   |   Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    |
-| Rodrigo Franco     | Applied Economics, UMN   |   Sept. 27th   |  Covariate Selection and the Doubly Robust Estimator | [Poster]()    |
-| TBD    | TBD   |   Oct. 11th   |  TBD | [Poster]()    | 
-| TBD    | TBD   |   Oct. 25th   |  TBD | [Poster]()    | 
-| TBD    | TBD   |   Nov. 8th   |  TBD | [Poster]()    | 
-| TBD    | TBD   |   Nov. 22nd   |  TBD | [Poster]()    | 
-| TBD    | TBD   |   Dec. 6th   |  TBD | [Poster]()    | 
+| **Speaker**      |  **Date** | **Title** | **Link to Poster** |
+| :---        |    :----:   |    :----:   |    ---: |
+| [Lifeng Ren](https://www.linkedin.com/in/lifeng-ren-047149127)     |    Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    |
+| [Rodrigo Franco](https://www.rodrigofrancor.com/)    |   Sept. 27th   |  Covariate Selection and the Doubly Robust Estimator | [Poster]()    |
+| TBD    |   Oct. 11th   |  TBD | [Poster]()    | 
+| TBD    |   Oct. 25th   |  TBD | [Poster]()    | 
+| TBD    |   Nov. 8th   |  TBD | [Poster]()    | 
+| TBD    |   Nov. 22nd   |  TBD | [Poster]()    | 
+| TBD    |   Dec. 6th   |  TBD | [Poster]()    | 
 
 
 ## Past Seminar & Skill Series Schedules
