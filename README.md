@@ -68,11 +68,10 @@ Please find the current list of skills presenters below:
 | :---        |    :----:   |    :----:   |    ---: |
 | [Lifeng Ren](https://www.linkedin.com/in/lifeng-ren-047149127)     |    Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    |
 | [Rodrigo Franco](https://www.rodrigofrancor.com/)    |   Sept. 27th   |  Covariate Selection and the Doubly Robust Estimator | [Poster]()    |
-| TBD    |   Oct. 11th   |  TBD | [Poster]()    | 
-| TBD    |   Oct. 25th   |  TBD | [Poster]()    | 
-| TBD    |   Nov. 8th   |  TBD | [Poster]()    | 
-| TBD    |   Nov. 22nd   |  TBD | [Poster]()    | 
-| TBD    |   Dec. 6th   |  TBD | [Poster]()    | 
+| [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Writing Theory for Reduced Form Models | [Poster]()    | 
+| [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/)    |   Oct. 25th   |  Networking for the Job Market and Beyond | [Poster]()    | 
+| [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster]()    | 
+| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)   |   Dec. 6th   |  Advancements in the Difference in Differences Literature | [Poster]()    | 
 
 
 ## Past Seminar & Skill Series Schedules
