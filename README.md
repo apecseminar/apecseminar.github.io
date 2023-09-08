@@ -94,6 +94,8 @@ The following is a list of the previous organizers of the APEC Seminar Series.
 | [Yanxu Long](https://yanxulong.github.io/)     | 2023       |  
 | [Matthew Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)     | 2022 -- 2023       |  
 | [Chris Boyd](https://www.chrismboyd.com/)   | 2021 -- 2022    | 
+| [Natalia Ordaz Reynoso](https://www.nataliaordazreynoso.com/home)   | 2019 -- 2021    | 
+
 
 
 ## Curated List of  Related Seminars/Conferences:

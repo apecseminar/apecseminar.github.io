@@ -75,6 +75,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [The Occasional Workshop in Environmental and Resource Economics](https://occasionalworkshop.weebly.com/)      | Environment       |  January | April |
 | [United Nations Science Day](https://www.un.org/en/observances/world-science-day)      | General       |  ? | July | 
 | [Women in International Economics Conference](https://sites.google.com/view/wie-conference/women-in-international-economics-conference)      | International, Gender       |  May | October |
+| [Workshop on Natural Experiments](https://sites.google.com/view/10th-natural-exp-workshop/home)      | General     |  October | December | 
 | [World Congress of Environmental and Resource Economists](https://www.eaere.org/wcerea/)      | Environment      |  ? | July | 
 | [World Congress of the International Economic Association](https://iea-world.org/event/another-event/)      | General       |  ? | December | 
 | [Western Economic Association International Annual Conference](https://weai.org/conferences/)      | General      |  ? | July | 
