@@ -6,10 +6,13 @@ The current Diversity & Inclusion Committee Chair is [Dr. Hikaru Peterson](https
 Concerns related to DEI at the department level are addressed via the Diversity Equity and Inclusion Committee.
 The department's resources and stance on DEI may be found through the [APEC Website](https://apec.umn.edu/dei).
 More broadly, the University of Minnesota has an [Office of Equity and Diversity](https://diversity.umn.edu/) with resources and support on DEI-related material.
+Graduate students can use the [Graduate Student Resource Guide](https://docs.google.com/document/d/15zb9IlSKAt7K7rg-pC_QvTFvQvC6yvqU7jLLIgr616E/edit) to find UMN based graduate resources to support them. 
 
 
 ## International Student Resources
-The current International Student Representative is [Joseph Aguilar Bohorquez](https://apec.umn.edu/people/joseph-aguilar-bohorquez).
+The current International Student Representative is [Joseph Aguilar Bohorquez](https://apec.umn.edu/people/joseph-aguilar-bohorquez). 
+Many students find the [Councile of International Graduate Students (CIGS)](https://sites.google.com/umn.edu/cigsumn/home) to be a helpful resource on campus. 
+Here is a list of [Identity-based Organizations](https://docs.google.com/spreadsheets/d/1VCv9dexgtS7v8h-3IoFeX38KX5AirxVIKdhb3THfzVI/edit#gid=1174195306) at UMN for graduate students. 
 
 
 ### Organizations and Programs
@@ -17,6 +20,7 @@ The current International Student Representative is [Joseph Aguilar Bohorquez](h
 | **Organization**   | **Host** |
 | :---        |    ---: |
 | [Diversity Fellowship Program](https://isrdi.umn.edu/diversity-fellowship-program)        |    ISRDI |
+| [Diversity of Views and Experiences (DOVE) Fellows Program](https://grad.umn.edu/diversity/community-scholars-program)        |    UMN |
 
 
 ### Funding 
