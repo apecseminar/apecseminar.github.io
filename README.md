@@ -34,7 +34,7 @@ There is an active call for speakers from Aug. 14th through Aug. 26th.
 
 ## Speaker Schedule: 
 
-**Student Seminars and the Skill Series will occur at 2-3 PM Central Time on Wednesdays in Ruttan 119 and via Zoom**
+**Student Seminars and the Skill Series will occur at 2-3 PM Central Time on Wednesdays in Ruttan 119 and via Zoom.** Please note that due to schedule conflicts by the speakers, some presentions may be slightly before or after this time. 
 
 For further details on each event, in the  'Agenda' view, simply click on the event and a dropdown should appear displaying information on the presenter, the topic, and the zoom link. If you don't want to miss any of the event, be sure to sync this calendar with your personal google calendar (Click the `+ Google Calendar` at the bottom).
 
@@ -60,14 +60,14 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 On the off-weeks when the APEC Seminar Series does not have a speaker, the department will be hosting the APEC Skill Series. 
 This is a workshop-style series featuring students, faculty, and staff from the APEC department  offering a variety of presentations and demonstrations for to teach and develop technical skills, soft skills, and mathematical/ course-related skills useful for an applied economist. 
 
-Please find the current list of skills presenters below:
+Please find the current list of skills presenters below.
 
 ### 2023 Fall Workshop Schedule
 
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |    :----:   |    ---: |
 | [Lifeng Ren](https://www.linkedin.com/in/lifeng-ren-047149127)     |    Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    |
-| [Rodrigo Franco](https://www.rodrigofrancor.com/)    |   Sept. 27th   |  Covariate Selection and the Doubly Robust Estimator | [Poster]()    |
+| [Libby Kula](https://www.linkedin.com/in/elizabeth-kula)    |   Sept. 27th   |  Intro to Zotero and Efficient Literature Review Practices | [Poster]()    |
 | [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Writing Theory for Reduced Form Models | [Poster]()    | 
 | [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/)    |   Oct. 25th   |  Networking for the Job Market and Beyond | [Poster]()    | 
 | [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster]()    | 
