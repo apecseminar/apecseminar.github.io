@@ -17,6 +17,7 @@ Connect with us:
 - Via [UMN Department Website](https://apec.umn.edu/)
 - Via [Github](https://github.com/apecseminar/)
 - Via [Twitter](https://twitter.com/apecmn) 
+- Via [YouTube]()
 
 ## How to Participate 
 
@@ -59,19 +60,20 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 
 On the off-weeks when the APEC Seminar Series does not have a speaker, the department will be hosting the APEC Skill Series. 
 This is a workshop-style series featuring students, faculty, and staff from the APEC department  offering a variety of presentations and demonstrations for to teach and develop technical skills, soft skills, and mathematical/ course-related skills useful for an applied economist. 
+In an effort at accessibility of the content, we provide links to the presentation materials where applicable as well as recordings of the workshop given the presenter's consent (Please find links in the table below).
 
 Please find the current list of skills presenters below.
 
 ### 2023 Fall Workshop Schedule
 
-| **Speaker**      |  **Date** | **Title** | **Link to Poster** |
-| :---        |    :----:   |    :----:   |    ---: |
-| [Lifeng Ren](https://www.linkedin.com/in/lifeng-ren-047149127)     |    Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    |
-| [Libby Kula](https://www.linkedin.com/in/elizabeth-kula)    |   Sept. 27th   |  Intro to Zotero and Efficient Literature Review Practices | [Poster]()    |
-| [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Writing Theory for Reduced Form Models | [Poster]()    | 
-| [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/)    |   Oct. 25th   |  Networking for the Job Market and Beyond | [Poster]()    | 
-| [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster]()    | 
-| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)   |   Dec. 6th   |  Advancements in the Difference in Differences Literature | [Poster]()    | 
+| **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
+| :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
+| [Lifeng Ren](https://www.lifengren.com)     |    Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    | [Github Repository](https://www.lifengren.com/quarto_notebook.html) | [YouTube]() |
+| [Libby Kula](https://www.linkedin.com/in/elizabeth-kula)    |   Sept. 27th   |  Intro to Zotero and Efficient Literature Review Practices | [Poster](/posters/2023_fall/libby_kula_230927.pdf)    | [Slides]() | [YouTube]() |
+| [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Writing Theory for Reduced Form Models | [Poster]()    |  [Slides]() | [YouTube]() |
+| [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/)    |   Oct. 25th   |  Networking for the Job Market and Beyond | [Poster]()    |  [Slides]() | [YouTube]() |
+| [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster]()    |  [Slides]() | [YouTube]() |
+| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)   |   Dec. 6th   |  Advancements in the Difference in Differences Literature | [Poster]()    |  [Slides]() | [YouTube]() |
 
 
 ## Past Seminar & Skill Series Schedules
