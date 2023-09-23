@@ -11,7 +11,7 @@ The [Applied Economics Seminar Series](https://apecseminar.github.io/) presents 
 Speakers are primarly current and former students of the graduate program for Applied Economics at Minnesota. 
 As such, it is a forum for early career researchers to get feedback on their work at varying stages. 
 This includes preliminary results to polished job market papers. 
-The APEC Seminar Series has a storied tradition within the department dating back to 2011. 
+The APEC Seminar Series has a storied tradition within the department dating back to 2019 -- providing community and comradery amongst the graduate student body. 
 
 Connect with us:
 - Via [UMN Department Website](https://apec.umn.edu/)
@@ -22,12 +22,12 @@ Connect with us:
 ## How to Participate 
 
 The seminar is aimed at graduate students (M.S. and Ph.D.) in the Applied Economics department at the University of Minnesota.
-But, we kindly welcome attendance from students and faculty throughout the University in other departments (e.g., Economics, Public Policy, etc.), as well as other visiting scholars and alumni. 
+But, we kindly welcome attendance from students and faculty throughout the University in other departments (e.g., Economics, Public Policy, Business, etc.), as well as other visiting scholars and alumni. 
 
 Members of the Applied Economics department will recieve notification of upcoming speakers via department announcements. 
 For those outside the department, please follow the latest announcements and news (house on this website) for information on attendance. 
 
-The seminar is a one slot with a 40 minute presentation, 10 minutes of disscusant commentary and 10 minutes of general Q/A. The seminar is offered both in-person and via online (viz., Zoom) attendance. Snack and goodies will be provided to in-person attendees in room 232 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
+The seminar is a one slot with a 40 minute presentation, 10 minutes of disscusant commentary and 10 minutes of general Q/A. Questions can respectfully asked throughout the presentation in a standard economics format. The seminar is offered both in-person and via online (viz., Zoom) attendance. Snack and goodies will be provided to in-person attendees in room 232 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
 
 A call for speakers occurs bi-annually at the start of each semester. 
 There is an active call for speakers from Aug. 14th through Aug. 26th. 
@@ -71,6 +71,7 @@ Please find the current list of skills presenters below.
 | [Lifeng Ren](https://www.lifengren.com)     |    Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    | [Github Repository](https://www.lifengren.com/quarto_notebook.html) | [YouTube]() |
 | [Libby Kula](https://www.linkedin.com/in/elizabeth-kula)    |   Sept. 27th   |  Intro to Zotero and Efficient Literature Review Practices | [Poster](/posters/2023_fall/libby_kula_230927.pdf)    | [Slides]() | [YouTube]() |
 | [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Writing Theory for Reduced Form Models | [Poster]()    |  [Slides]() | [YouTube]() |
+
 | [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/)    |   Oct. 25th   |  Networking for the Job Market and Beyond | [Poster]()    |  [Slides]() | [YouTube]() |
 | [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster]()    |  [Slides]() | [YouTube]() |
 | [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)   |   Dec. 6th   |  Advancements in the Difference in Differences Literature | [Poster]()    |  [Slides]() | [YouTube]() |
