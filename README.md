@@ -1,17 +1,17 @@
 ![](/images/umn_logo.jpg) 
 
-# **Applied Economics Seminar Series**
+# **Applied Economics Student Seminar Series**
 # at *the University of Minnesota*
 
 <!-- # [**CALL FOR SPEAKERS (Click Me)**](https://docs.google.com/forms/d/e/1FAIpQLSd9WDlWiiQd5w0k9BYdUhYFF8_V2ZWpkzPiikKMIKxtr2yVpQ/) -->
 
 ## Description: 
 
-The [Applied Economics Seminar Series](https://apecseminar.github.io/) presents applied economics research hosted by the University of Minnesota. 
+The [Applied Economics Student Seminar Series](https://apecseminar.github.io/) presents applied economics research hosted by the University of Minnesota. 
 Speakers are primarly current and former students of the graduate program for Applied Economics at Minnesota. 
 As such, it is a forum for early career researchers to get feedback on their work at varying stages. 
 This includes preliminary results to polished job market papers. 
-The APEC Seminar Series has a storied tradition within the department dating back to 2019 -- providing community and comradery amongst the graduate student body. 
+The APEC Student Seminar Series has a storied tradition within the department dating back to 2019 -- providing community and comradery amongst the graduate student body. 
 
 Connect with us:
 - Via [UMN Department Website](https://apec.umn.edu/)
@@ -84,7 +84,7 @@ Please find the current list of skills presenters below.
 
 ## Seminar Organizer
 
-The current organizer of the APEC Seminar Series is [Ryan McWay](https://mcwayrm.github.io/). 
+The current organizer of the APEC Student Seminar Series and Skills Series is [Ryan McWay](https://mcwayrm.github.io/). 
 Ryan is a 2nd year PhD student in the Applied Economics department. 
 If you have any questions or concerns related to the seminar series, you may create an issue via the [Github Issues](https://github.com/apecseminar/apecseminar.github.io/issues) page or contact Ryan directly. 
 
