@@ -27,6 +27,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Canadian Economics Association Annual Meeting](https://www.economics.ca/cpages/cea2023)   | General       |  Feburary | June |
 | [CEPR Annual Symposium of the Development Economics Programme](https://cepr.org/events/event-series/development-economics-symposium/cepr-development-economics-annual-symposium-14)   | Development        |  August | October |
 | [CESifo Junior Workshop on Big Data](https://cepr.org/events/event-series/development-economics-symposium/cepr-development-economics-annual-symposium-14)   | Big Data        |  May | October |
+| [Chicago Causal Inference Student Conference](https://fs2.formsite.com/UChicagoEconomics/ygpbq2zwin/index)   | Causal        | November  | March |
 | [Congress of the Asian Association of Environmental and Resource Economics](https://aaere.org/events/)   | Environment        |  May | August |
 | [CREEA - ACERE Annual PhD and Early Career Reseacher Workshop](https://sites.google.com/view/creeaacere/workshops)   | Environment        |  March | June |
 | [CSAE Economic Development in Africa Conference](https://www.cvent.com/c/abstracts/eaf1fb58-ec91-4459-9c54-a6ee6f684ada)   | Development        |  September | March |
