@@ -1,4 +1,4 @@
-![](/images/umn_logo.jpg) 
+![](/images/apec_logo.jpeg) 
 
 # **Applied Economics Student Seminar Series**
 # at *the University of Minnesota*
@@ -17,7 +17,7 @@ Connect with us:
 - Via [UMN Department Website](https://apec.umn.edu/)
 - Via [Github](https://github.com/apecseminar/)
 - Via [Twitter](https://twitter.com/apecmn) 
-- Via [YouTube]()
+- Via [YouTube](https://www.youtube.com/@APEC_Seminar)
 
 ## How to Participate 
 
@@ -68,9 +68,9 @@ Please find the current list of skills presenters below.
 
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
-| [Lifeng Ren](https://www.lifengren.com)     |    Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    | [Github Repository](https://www.lifengren.com/quarto_notebook.html) | [YouTube]() |
+| [Lifeng Ren](https://www.lifengren.com)     |    Sept. 13th   |  Working with Quarto Notebooks | [Poster](/posters/2023_fall/lifeng_ren_230913.pdf)    | [Github Repository](https://www.lifengren.com/quarto_notebook.html) | [YouTube](https://www.youtube.com/watch?v=GslyujSnkZ4) |
 | [Libby Kula](https://www.linkedin.com/in/elizabeth-kula)    |   Sept. 27th   |  Intro to Zotero and Efficient Literature Review Practices | [Poster](/posters/2023_fall/libby_kula_230927.pdf)    | [Slides](/slides/2023_fall/slides_libby_kula_230927.pdf) | [YouTube]() |
-| [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Writing Theory for Reduced Form Models | [Poster]()    |  [Slides]() | [YouTube]() |
+| [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Writing Theory for Reduced Form Models | [Poster](/posters/2023_fall/terry_hurley_231011.pdf)    |  [Slides]() | [YouTube]() |
 | [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/)    |   Oct. 25th   |  Networking for the Job Market and Beyond | [Poster]()    |  [Slides]() | [YouTube]() |
 | [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster]()    |  [Slides]() | [YouTube]() |
 | [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)   |   Dec. 6th   |  Advancements in the Difference in Differences Literature | [Poster]()    |  [Slides]() | [YouTube]() |
@@ -78,6 +78,7 @@ Please find the current list of skills presenters below.
 
 ## Past Seminar & Skill Series Schedules
 
+<!-- - [2023 Fall Schedule](/past_schedules/schedule_2023_fall.md) -->
 - [2023 Spring Schedule](/past_schedules/schedule_2023_spring.md)
 - [2022 Fall Schedule](/past_schedules/schedule_2022_fall.md)
 
