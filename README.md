@@ -1,4 +1,4 @@
-![](/images/apec_logo.jpeg) 
+![](/images/apec_logo.png) 
 
 # **Applied Economics Student Seminar Series**
 # at *the University of Minnesota*
