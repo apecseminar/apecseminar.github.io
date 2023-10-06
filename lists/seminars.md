@@ -20,6 +20,7 @@ Below is a list of related seminars in alphabetical order.
 | [Centeral Banking & Digitial Currencies Virtual Seminar Series](https://www.cbanddc.net/)        |    Macroeconomics, Monetary Policy   |    Central Bank Research Association |
 | [CRRESS Seminar Series](https://labordynamicsinstitute.github.io/crress/)        |    Reproducibility   |    Conference on Reproducibility and Replicability in Economics and Social Sciences |
 | [Crypto and Blockchain Economics Research Forum](https://www.cber-forum.org/)        |    Machine Learning, Monetary Policy   |  Independent   |
+| [CSAE Lunchtime Seminar](https://www.csae.ox.ac.uk/events)        |    Development   |  CSAE   |
 | [Climate Change, Macroeconomics, and Finance](https://e-axes.org/webinars/)        |    Macroeconomics, Environment, Finance   |  E-Axes Forum   |
 | [DENeB Seminar Series on Development Economics](https://www.deveconberlin.org/activities/seminar_series)        |    Development   |  Development Economics Network Berlin   |
 | [Development Workshop at Michigan](https://devecon.umich.edu/events/)        |    Development   |  University of Michigan   |

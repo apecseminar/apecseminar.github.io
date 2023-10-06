@@ -9,12 +9,14 @@ There are also several labs and working groups adjacent to the deparment that ma
 | :---        |    :----:   |    :----:   |    ---: |
 | [Paul Glewwe Lab](https://apec.umn.edu/people/paul-glewwe)       |   Applied Economics    |    Development, Education    |   [Paul Gleewe](https://apec.umn.edu/people/paul-glewwe)  |
 | [Bellemare Research Group (BeRG)](http://marcfbellemare.com/wordpress/graduate-student-supervision)       |   Applied Economics    |    Development, Agriculture    |   [Marc Bellemare](http://marcfbellemare.com/wordpress/about)  |
-| [Population, Health, and Development (PHD) Lab](https://www.audreydorelien.com/lab)       |   Applied Economics    |    Development, Demography    |   [Jaston Kerwin](https://jasonkerwin.com/) or [Audrey Dorelian](https://www.audreydorelien.com/lab)  |
+| [Population, Health, and Development (PHD) Lab](https://www.audreydorelien.com/lab)       |   Applied Economics    |    Development, Demography    |   [Jason Kerwin](https://jasonkerwin.com/) or [Audrey Dorelian](https://www.audreydorelien.com/lab)  |
 | [Liz Davis Lab](https://apec.umn.edu/people/elizabeth-davis)       |   Applied Economics    |    Labor    |   [Liz Davis](https://apec.umn.edu/people/elizabeth-davis)  |
 | [The Johnson-Polasky Lab](https://polaskylab.umn.edu/)       |   Applied Economics    |    Environment    |   [Justin Johhnson](https://johnsonpolaskylab.umn.edu/home/justin-johnson) or [Steve Polasky](https://apec.umn.edu/people/stephen-polasky) |
 | [Behavioral Economics Working Group]()       |   Applied Economics    |    Behavior    |   [Corissa Mason](marso056@umn.edu) |
 | [Life Cycle Modeling Student Group]()       |   Bioproducts and Biosystems Engineering    |    Sustainability, Demography    |   [Kathryn Phillips](phil0929@umn.edu)  |
 | [APEC Food Group Workshop]()       |   Applied Economics    |    Agriculture   |   [Metin Çakır](mcakir@umn.edu)  |
+| [EFROG]()       |   Applied Economics    |    Econometrics   |   [Thomas Durfee](durfe019@umn.edu)  |
+
 
 
 
