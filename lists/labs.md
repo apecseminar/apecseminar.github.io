@@ -15,7 +15,7 @@ There are also several labs and working groups adjacent to the deparment that ma
 | [Behavioral Economics Working Group]()       |   Applied Economics    |    Behavior    |   [Corissa Mason](marso056@umn.edu) |
 | [Life Cycle Modeling Student Group]()       |   Bioproducts and Biosystems Engineering    |    Sustainability, Demography    |   [Kathryn Phillips](phil0929@umn.edu)  |
 | [APEC Food Group Workshop]()       |   Applied Economics    |    Agriculture   |   [Metin Çakır](mcakir@umn.edu)  |
-| [EFROG]()       |   Applied Economics    |    Econometrics   |   [Thomas Durfee](durfe019@umn.edu)  |
+<!-- | [EFROG]()       |   Applied Economics    |    Econometrics   |   [Thomas Durfee](durfe019@umn.edu)  | -->
 
 
 
