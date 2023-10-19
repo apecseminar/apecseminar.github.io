@@ -12,6 +12,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Annual Bank Conference on Development Economics](https://www.worldbank.org/en/events/2018/10/23/annual-bank-conference-on-development-economics-2019-multilateralism-past-present-and-future#1)   | Development        |  March | July | 
 | [Annual CBER Conference](https://www.cber-forum.org/conference2024)   | Machine Learning, Monetary Policy        |  ? | May | 
 | [Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~epu/acegd2022/)   | Development        |  September | December | 
+| [Annual Conference of the Australasian Agricultural & Resource Economics Society](https://www.aares.org.au/AARES2024)   | Environment        |  October | Feburary | 
 | [Annual IOS Conference](https://leibniz-ios.de/en/knowledge-transfer/events/annual-conference)   | General        |  ? | October |
 | [Annual Urbanization and Poverty Reduction Research Conference](https://iiep.gwu.edu/annual-urbanization-and-poverty-reduction-research-conference/)   | Development, Urban        |  January | September  | 
 | [Annual Washington Area Development Economics Symposium](https://iiep.gwu.edu/wades/)   | Development        |  ? | April  | 
@@ -45,6 +46,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Interdisciplinary PhD Workshop in Sustainable Development](https://blogs.cuit.columbia.edu/sdds/ipwsd/)      | Development    |  January | March |
 | [International Atlantic Economic Society Conference](https://www.iaes.org/)      | General    |  June | March |
 | [International Congress on Conservation Biology](https://conbio.org/mini-sites/iccb-2023/)      | Environment    |  ? | July |
+| [International Consortium on Applied Bioeconomy Research (ICABR)](https://icabr.net/)      | Environment    |  ? | July |
 | [IZA Conference in Labor Economics ](https://www.iza.org/)      | Labor    |  ? | July |
 | [LSE Environment Week](https://www.theigc.org/events/lse-environment-week-2023)      | Environement    |  June | September |
 | [LSE Environment Week](https://www.theigc.org/events/lse-environment-week-2023)      | Environement    |  June | September |
@@ -61,6 +63,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [North American Meeting of the Urban Economics Association](https://www.narsc.org/newsite/conference/)      | Urban    |  July | November |
 | [North American Regional Science Council Annual Meeting](https://urbaneconomics.org/meetings/)      | Urban    |  ? | October |
 | [North Carolina State Camp Resources](https://cenrep.ncsu.edu/events/camp-resources/)      | Environment    |  May | August |
+| [Northeastern Agricultural and Resource Economics Association (NAREA)](https://www.cvent.com/c/abstracts/ba36a385-0e34-4835-9fe6-22ad2f3e9e9b)      | Environment   |  Feburary | June |
 | [Nordic Conference in Development Economics](https://www.gu.se/en/school-business-economics-law/economics/our-research/research-areas/development-economics/nordic-conference-in-development-economics-ncde-2023)      | Development    |  April | June |
 | [New England Universities Development Consortium](https://www.neudc.org/)      | Development      |  August | November | 
 | [NOVAFRICA Conference on Economics Development](https://novafrica.org/research/2022-novafrica-conference-on-economic-development/)      | Development      |  March | June | 
@@ -72,6 +75,7 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Royal Economic Society Annual Conference](https://res.org.uk/event-listing/res-2023-annual-conference/)      | General       |  ? | April |
 | [Society for Neuroeconomics Annual Meeting](https://neuroeconomics.org/2023-meeting/)      | Behavior      |  March | October |
 | [Southern Economics Association Annual Meeting](https://www.southerneconomic.org/event/7662b305-ad92-474d-8f2c-bce1240b9858/summary)      | General       |  March | November |
+| [Southeastern Workshop on Energy & Environmental Economics and Policy (SWEEEP)](https://econ.gatech.edu/research/conferences/sweeep)      | Environment       |  ? | Ocober |
 | [Stanford GSB Rising Scholars Conference](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/rising-scholars-conference)      | General       |  ? | October |
 | [Sustainability & Development Conference](https://umsusdev.org/2022-conference/)      | Environment       |  October | January |
 | [The Occasional Workshop in Environmental and Resource Economics](https://occasionalworkshop.weebly.com/)      | Environment       |  January | April |
