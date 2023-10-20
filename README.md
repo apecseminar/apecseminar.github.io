@@ -72,7 +72,7 @@ Please find the current list of skills presenters below.
 | [Libby Kula](https://www.linkedin.com/in/elizabeth-kula)    |   Sept. 27th   |  Intro to Zotero and Efficient Literature Review Practices | [Poster](/posters/2023_fall/libby_kula_230927.pdf)    | [Slides](/slides/2023_fall/slides_libby_kula_230927.pdf) | [YouTube](https://www.youtube.com/watch?v=Qt1ES4lEDQk) |
 | [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Insights from the Theory of the Firm into Structural and Reduce Form Equation Modeling | [Poster](/posters/2023_fall/terry_hurley_231011.pdf)    |  [Slides](/slides/2023_fall/slides_terry_hurley_231011.pdf) | [YouTube]() |
 | [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/)    |   Oct. 25th   |  Networking for the Job Market and Beyond | [Poster](/posters/2023_fall/charlotte_ambrozek_231025.pdf)    |  [Slides]() | [YouTube]() |
-| [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster]()    |  [Slides]() | [YouTube]() |
+| [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster](/posters/2023_fall/haseeb_ali_231108.pdf)    |  [Slides]() | [YouTube]() |
 | [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)   |   Dec. 6th   |  Advancements in the Difference in Differences Literature | [Poster]()    |  [Slides]() | [YouTube]() |
 
 
