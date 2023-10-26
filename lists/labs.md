@@ -7,7 +7,7 @@ There are also several labs and working groups adjacent to the deparment that ma
 
 | **Lab/Working Group**   | **Affiliation** | **Sub-fields** | **Contact** | 
 | :---        |    :----:   |    :----:   |    ---: |
-| [Paul Glewwe Lab](https://apec.umn.edu/people/paul-glewwe)       |   Applied Economics    |    Development, Education    |   [Paul Gleewe](https://apec.umn.edu/people/paul-glewwe)  |
+| [Paul Glewwe Development Lab](https://apec.umn.edu/people/paul-glewwe)       |   Applied Economics    |    Development, Education    |   [Paul Gleewe](https://apec.umn.edu/people/paul-glewwe)  |
 | [Bellemare Research Group (BeRG)](http://marcfbellemare.com/wordpress/graduate-student-supervision)       |   Applied Economics    |    Development, Agriculture    |   [Marc Bellemare](http://marcfbellemare.com/wordpress/about)  |
 | [Population, Health, and Development (PHD) Lab](https://www.audreydorelien.com/lab)       |   Applied Economics    |    Development, Demography    |   [Jason Kerwin](https://jasonkerwin.com/) or [Audrey Dorelian](https://www.audreydorelien.com/lab)  |
 | [Liz Davis Lab](https://apec.umn.edu/people/elizabeth-davis)       |   Applied Economics    |    Labor    |   [Liz Davis](https://apec.umn.edu/people/elizabeth-davis)  |
