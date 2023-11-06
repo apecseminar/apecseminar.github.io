@@ -57,7 +57,8 @@ Below is a list of related conferences in alphabetical order. Please also refer 
 | [Minnesota Economics Association Annual Meeting](https://www.minneapolisfed.org/mea)      | General    |  ? | October |
 | [Minnesota Corporate Finance Conference](https://carlsonschool.umn.edu/departments/finance-department/corporate-finance-conference)      | Finance    |  ? | May |
 | [Minnesota Economics Big Data Institute Conference](https://mebdi.org/conferences)      | Big Data    |  ? | October |
-| [Minnesota Workshop in Macroeconomic Theorye](https://sites.google.com/umn.edu/minnesotamacroworkshop/home)      | Macroeconomics    |  ? | August |
+| [Minnesota Workshop in Macroeconomic Theory](https://sites.google.com/umn.edu/minnesotamacroworkshop/home)      | Macroeconomics    |  ? | August |
+| [Missouri Valley Economic Association Annual Conference](https://www.mvea.net/annual-conference.html)      | General    |  ? | October |
 | [NABE Annual Conference](http://www.nabe-conference.com/index.html)      | Finance    |  July | March |
 | [NBER Summer Institute](https://www.nber.org/conferences/summer-institute)      | General    |  ? | July |
 | [North American Meeting of the Urban Economics Association](https://www.narsc.org/newsite/conference/)      | Urban    |  July | November |
