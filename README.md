@@ -29,8 +29,6 @@ For those outside the department, please follow the latest announcements and new
 
 The seminar is a one slot with a 40 minute presentation, 10 minutes of disscusant commentary and 10 minutes of general Q/A. Questions can respectfully asked throughout the presentation in a standard economics format. The seminar is offered both in-person and via online (viz., Zoom) attendance. Snack and goodies will be provided to in-person attendees in room 232 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
 
-A call for speakers occurs bi-annually at the start of each semester. 
-There is an active call for speakers from Aug. 14th through Aug. 26th. 
 
 
 ## Speaker Schedule: 
