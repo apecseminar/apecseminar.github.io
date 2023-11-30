@@ -71,7 +71,7 @@ Please find the current list of skills presenters below.
 | [Terry Hurley](https://apec.umn.edu/people/terrance-hurley)   |   Oct. 11th   |  Insights from the Theory of the Firm into Structural and Reduce Form Equation Modeling | [Poster](/posters/2023_fall/terry_hurley_231011.pdf)    |  [Slides](/slides/2023_fall/slides_terry_hurley_231011.pdf) | [YouTube](https://www.youtube.com/watch?v=N6HVmphdKVA) |
 | [Charlotte Ambrozek](https://charlotteambrozek.weebly.com/)    |   Oct. 25th   |  Networking for the Job Market and Beyond | [Poster](/posters/2023_fall/charlotte_ambrozek_231025.pdf)    |  No Slides | [YouTube]() |
 | [Haseeb Ali](https://www.linkedin.com/in/haseeb-ali-8128b652)    |   Nov. 8th   |  Git, Github, Batch Files, and Unix Shell | [Poster](/posters/2023_fall/haseeb_ali_231108.pdf)    |  [Slides](/slides/2023_fall/slides_haseeb_ali_231108.pdf) | [YouTube]() |
-| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)   |   Dec. 6th   |  Advancements in the Difference in Differences Literature | [Poster]()    |  [Slides]() | [YouTube]() |
+| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)   |   Dec. 6th   |  Advancements in the Difference in Differences Literature | [Poster](/posters/2023_fall/matt_bombyk_231206.pdf)    |  [Slides]() | [YouTube]() |
 
 
 ## Past Seminar & Skill Series Schedules
