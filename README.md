@@ -126,3 +126,8 @@ Details on the seminar can be directed towards the seminar organizer, [Ryan McWa
 
 We would like to acknowledge the gratious support of funding through the Applied Economics department for making this seminar posssible. 
 And to the Applied Economics department for hosting the seminar space.
+
+
+## Funding:
+
+The seminar series and skills workshop series is funded by the University of Minnesota's CFANS GSB Community Events and Projects Grant. 
