@@ -1,6 +1,6 @@
 # 2023 Spring Speaker Schedule
 
-| Speaker      | Affiliation | Date | Title | 
+| **Speaker**      | **Affiliation** | **Date** | **Title** | 
 | :---        |    :----:   |    :----:   |    ---: |
 | [Colette Salemi](https://colettesalemi.com/)      | University of Victoria   |   Feb. 9th   |  Does Perceived Labor Market Competition Increase Prejudice between Refugees and their Hosts? Evidence from Uganda and Ethiopia.   |
 | [Chris Boyd](https://www.chrismboyd.com/)   | Towson University    |    Mar. 23rd     |   Recent Research and Tips for the Job Market   |
