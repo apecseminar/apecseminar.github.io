@@ -1,4 +1,4 @@
-# 2023 Fall Seminar Schedule
+# Student Seminar Schedule
 
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
@@ -12,7 +12,7 @@
 | [Caitlyn Keo](https://www.linkedin.com/in/caitlyn-keo)  | Applied Economics, UMN    | Dec. 13th      |   Reforming Child Protection Services: The Effect of Differential Response on Subsequent Maltreatment for Reported Children | [Poster](/posters/2023_fall/caitlyn_keo_231213.pdf)    |
 
 
-# 2023 Fall Workshop Schedule
+# Skills Workshop Schedule
 
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
