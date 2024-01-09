@@ -27,14 +27,14 @@ But, we kindly welcome attendance from students and faculty throughout the Unive
 Members of the Applied Economics department will recieve notification of upcoming speakers via department announcements. 
 For those outside the department, please follow the latest announcements and news (house on this website) for information on attendance. 
 
-The seminar is a one slot with a 40 minute presentation, 10 minutes of disscusant commentary and 10 minutes of general Q/A. Questions can respectfully asked throughout the presentation in a standard economics format. The seminar is offered both in-person and via online (viz., Zoom) attendance. Snack and goodies will be provided to in-person attendees in room 232 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
+The seminar is a one slot with a 40 minute presentation, 10 minutes of disscusant commentary and 10 minutes of general Q/A. Questions can respectfully asked throughout the presentation in a standard economics format. The seminar is offered both in-person and via online (viz., Zoom) attendance. Snack and goodies will be provided to in-person attendees in room 119 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
 
 
 ![](/images/seminar_action_2023.jpg) 
 
 ## Speaker Schedule: 
 
-**Student Seminars and the Skill Series will occur at 2-3 PM Central Time on Wednesdays in Ruttan 119 and via Zoom.** Please note that due to schedule conflicts by the speakers, some presentions may be slightly before or after this time. 
+**Student Seminars and the Skill Series will occur at 12 - 1 PM Central Time on Wednesdays and Tuesdays in Ruttan 119 and via Zoom.** Please note that due to schedule conflicts by the speakers, some presentions may be slightly before or after this time. 
 
 For further details on each event, in the  'Agenda' view, simply click on the event and a dropdown should appear displaying information on the presenter, the topic, and the zoom link. If you don't want to miss any of the event, be sure to sync this calendar with your personal google calendar (Click the `+ Google Calendar` at the bottom).
 
@@ -43,14 +43,20 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 
 ### 2024 Spring Seminar Schedule
 
-In Progress of Updating.
 
-<!-- 
+
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
-| [Name]()     | Applied Economics, UMN   |   Sept. 6th   |  Title | [Poster](/posters/2024_spring/)    | 
+| [TBD]()     | Applied Economics, UMN   |   Jan. 17th   |  TBD | [Poster](/posters/2024_spring/)    |
+| [Haku Bo](https://www.linkedin.com/in/hakuub)     | Applied Economics, UMN   |   Jan. 31st   |  Net Incomes of Pastoralism and Its Influencers | [Poster](/posters/2024_spring/)    |
+| [SongYi Paik](https://www.songyipaik.com/)     | Applied Economics, UMN   |   Feb. 14th   |  Slow Violence of Waste: Evidence from Chinese Environmental Policy in Waste Trade | [Poster](/posters/2024_spring/)    |
+| [Monique Davis](https://www.moniqueedavis.com/)     | Applied Economics, UMN   |   Feb. 28th   |  School Resource Officer Selection and Training on Racial Disparities in Exclusion | [Poster](/posters/2024_spring/)    |
+| [Kadidiatou (Kadidja) Doucouré](https://kadidjadoucoure.weebly.com/)     | Loyola University Maryland   |   Mar. 13th   |  Exchange Rate Regimes and Firms Performance: Evidence from West African Countries | [Poster](/posters/2024_spring/)    |
+| [Haishan Yang](https://au.linkedin.com/in/haishan-yang-a08b5412a)     | Public Health, UMN   |   Mar. 26th   |  Disaster and Disparity: The Heterogenous Effect of Hurricane Katrina on Rental Market | [Poster](/posters/2024_spring/)    |
+| [Natalia Pia Guerrero Trinidad](https://apec.umn.edu/people/natalia-guerrero-trinidad)     | Applied Economics, UMN   |   Apr. 9th   |  The Role of Bonding and Bridging Social Capital by Non-State Social Structures: Evidence on Crime and Conflict in Peru | [Poster](/posters/2024_spring/)    |
+| [Yu Na Lee](https://sites.google.com/view/yu-na-lee/home)     | University of Guelph   |   Apr. 23rd   |  Food Price and Child Marriage | [Poster](/posters/2024_spring/)    | 
 
--->
+
 
 
 ## Skill Series
@@ -63,13 +69,17 @@ Please find the current list of skills presenters below.
 
 ### 2024 Spring Workshop Schedule
 
-In Progress of Updating.
 
-<!-- 
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
-| [Name]()    |   Sept. 27th   |  Title | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
--->
+| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)    |   Sept. 27th   |  Software to improve research efficiency: Onenote, Anki, estout | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Khoa Vu](https://sites.google.com/view/khoavu-umn/home)    |   Sept. 27th   |  Preparing for the Industry Job Market | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Jay Coggins](https://apec.umn.edu/people/jay-coggins)    |   Sept. 27th   |  Creating Theory in Practice: An Application from Environmental/Welfare Economics | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Thomas Durfee](https://sites.google.com/view/thomas-durfee/home)    |   Sept. 27th   |  The Basics of Unix Scripts and Batch Files | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Metin Cakir](https://apec.umn.edu/people/metin-cakir)    |   Sept. 27th   |  Tips for Writing Competitive Grants | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| Jhih-Yun Liu, Caitlyn Keo, Thomas Durfee   |   Sept. 27th   |  Reflections and Advice about the Job Market | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Shunkei Kakimoto](https://apec.umn.edu/people/shunkei-kakimoto)    |   Sept. 27th   |  Introduction to Making Presentation Slides with Xaringan | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+
 
 
 ## Past Seminar & Skill Series Schedules
