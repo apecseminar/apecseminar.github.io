@@ -47,7 +47,7 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
-| [TBD]()     | Applied Economics, UMN   |   Jan. 17th   |  TBD | [Poster](/posters/2024_spring/)    |
+| [Corissa Marson](https://apec.umn.edu/people/corissa-marson)     | Applied Economics, UMN   |   Jan. 17th   |  How Does Information Avoidance Determine the Effect of Information on Consumer Willingness to Pay: A Case Study on Genetically Modified and Gene Edited Crops | [Poster](/posters/2024_spring/corissa_marson_240117.pdf)    |
 | [Haku Bo](https://www.linkedin.com/in/hakuub)     | Applied Economics, UMN   |   Jan. 31st   |  Net Incomes of Pastoralism and Its Influencers | [Poster](/posters/2024_spring/)    |
 | [SongYi Paik](https://www.songyipaik.com/)     | Applied Economics, UMN   |   Feb. 14th   |  Slow Violence of Waste: Evidence from Chinese Environmental Policy in Waste Trade | [Poster](/posters/2024_spring/)    |
 | [Monique Davis](https://www.moniqueedavis.com/)     | Applied Economics, UMN   |   Feb. 28th   |  School Resource Officer Selection and Training on Racial Disparities in Exclusion | [Poster](/posters/2024_spring/)    |
@@ -72,13 +72,13 @@ Please find the current list of skills presenters below.
 
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
-| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)    |   Sept. 27th   |  Software to improve research efficiency: Onenote, Anki, estout | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Khoa Vu](https://sites.google.com/view/khoavu-umn/home)    |   Sept. 27th   |  Preparing for the Industry Job Market | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Jay Coggins](https://apec.umn.edu/people/jay-coggins)    |   Sept. 27th   |  Creating Theory in Practice: An Application from Environmental/Welfare Economics | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Thomas Durfee](https://sites.google.com/view/thomas-durfee/home)    |   Sept. 27th   |  The Basics of Unix Scripts and Batch Files | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Metin Cakir](https://apec.umn.edu/people/metin-cakir)    |   Sept. 27th   |  Tips for Writing Competitive Grants | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| Jhih-Yun Liu, Caitlyn Keo, Thomas Durfee   |   Sept. 27th   |  Reflections and Advice about the Job Market | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Shunkei Kakimoto](https://apec.umn.edu/people/shunkei-kakimoto)    |   Sept. 27th   |  Introduction to Making Presentation Slides with Xaringan | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)    |   Jan. 24th   |  Software to improve research efficiency: Onenote, Anki, estout | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Khoa Vu](https://sites.google.com/view/khoavu-umn/home)    |   Feb. 7th   |  Preparing for the Industry Job Market | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Jay Coggins](https://apec.umn.edu/people/jay-coggins)    |   Feb. 21st   |  Creating Theory in Practice: An Application from Environmental/Welfare Economics | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Thomas Durfee](https://sites.google.com/view/thomas-durfee/home)    |   Mar. 19th   |  The Basics of Unix Scripts and Batch Files | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Metin Cakir](https://apec.umn.edu/people/metin-cakir)    |   Apr. 2nd   |  Tips for Writing Competitive Grants | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| Jhih-Yun Liu, Caitlyn Keo, Thomas Durfee   |   Apr. 16th   |  Reflections and Advice about the Job Market | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Shunkei Kakimoto](https://apec.umn.edu/people/shunkei-kakimoto)    |   Apr. 30th   |  Introduction to Making Presentation Slides with Xaringan | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
 
 
 
@@ -95,6 +95,8 @@ Please find the current list of skills presenters below.
 Each Spring semeseter we hold a symposium to highlight the masters theses for graduating masters students in the Applied Economics (APEC) department. 
 This is a celebration of their work, as well as a friendly environment for students to practice their thesis before their oral defense.
 A list of previous symposiums can be found on the  [Past Symposiums](/past_schedules/schedule_ms_symposium.md) page. 
+
+The Spring 2024 MS Thesis Symposium will be held in Ruttan Hall 119 from 1 PM - 2 PM on April 12th. 
 
 <!-- | **Speaker**      | **Title** | 
 | :---        |    ---: |
