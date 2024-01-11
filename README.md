@@ -48,13 +48,13 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
 | [Corissa Marson](https://apec.umn.edu/people/corissa-marson)     | Applied Economics, UMN   |   Jan. 17th   |  How Does Information Avoidance Determine the Effect of Information on Consumer Willingness to Pay: A Case Study on Genetically Modified and Gene Edited Crops | [Poster](/posters/2024_spring/corissa_marson_240117.pdf)    |
-| [Haku Bo](https://www.linkedin.com/in/hakuub)     | Applied Economics, UMN   |   Jan. 31st   |  Net Incomes of Pastoralism and Its Influencers | [Poster](/posters/2024_spring/)    |
-| [SongYi Paik](https://www.songyipaik.com/)     | Applied Economics, UMN   |   Feb. 14th   |  Slow Violence of Waste: Evidence from Chinese Environmental Policy in Waste Trade | [Poster](/posters/2024_spring/)    |
-| [Monique Davis](https://www.moniqueedavis.com/)     | Applied Economics, UMN   |   Feb. 28th   |  School Resource Officer Selection and Training on Racial Disparities in Exclusion | [Poster](/posters/2024_spring/)    |
-| [Kadidiatou (Kadidja) Doucouré](https://kadidjadoucoure.weebly.com/)     | Loyola University Maryland   |   Mar. 13th   |  Exchange Rate Regimes and Firms Performance: Evidence from West African Countries | [Poster](/posters/2024_spring/)    |
-| [Haishan Yang](https://au.linkedin.com/in/haishan-yang-a08b5412a)     | Public Health, UMN   |   Mar. 26th   |  Disaster and Disparity: The Heterogenous Effect of Hurricane Katrina on Rental Market | [Poster](/posters/2024_spring/)    |
-| [Natalia Pia Guerrero Trinidad](https://apec.umn.edu/people/natalia-guerrero-trinidad)     | Applied Economics, UMN   |   Apr. 9th   |  The Role of Bonding and Bridging Social Capital by Non-State Social Structures: Evidence on Crime and Conflict in Peru | [Poster](/posters/2024_spring/)    |
-| [Yu Na Lee](https://sites.google.com/view/yu-na-lee/home)     | University of Guelph   |   Apr. 23rd   |  Food Price and Child Marriage | [Poster](/posters/2024_spring/)    | 
+| [Haku Bo](https://www.linkedin.com/in/hakuub)     | Applied Economics, UMN   |   Jan. 31st   |  Net Incomes of Pastoralism and Its Influencers | [Poster](/posters/2024_spring/haku_bo_240131.pdf)    |
+| [SongYi Paik](https://www.songyipaik.com/)     | Applied Economics, UMN   |   Feb. 14th   |  Slow Violence of Waste: Evidence from Chinese Environmental Policy in Waste Trade | [Poster](/posters/2024_spring/songyi_paik_240214.pdf)    |
+| [Monique Davis](https://www.moniqueedavis.com/)     | Applied Economics, UMN   |   Feb. 28th   |  School Resource Officer Selection and Training on Racial Disparities in Exclusion | [Poster](/posters/2024_spring/monique_davis_240228.pdf)    |
+| [Kadidiatou (Kadidja) Doucouré](https://kadidjadoucoure.weebly.com/)     | Loyola University Maryland   |   Mar. 13th   |  Exchange Rate Regimes and Firms Performance: Evidence from West African Countries | [Poster](/posters/2024_spring/kadidja_doucoure_240313.pdf)    |
+| [Haishan Yang](https://au.linkedin.com/in/haishan-yang-a08b5412a)     | Public Health, UMN   |   Mar. 26th   |  Disaster and Disparity: The Heterogenous Effect of Hurricane Katrina on Rental Market | [Poster](/posters/2024_spring/haishan_yang_240326.pdf)    |
+| [Natalia Pia Guerrero Trinidad](https://apec.umn.edu/people/natalia-guerrero-trinidad)     | Applied Economics, UMN   |   Apr. 9th   |  The Role of Bonding and Bridging Social Capital by Non-State Social Structures: Evidence on Crime and Conflict in Peru | [Poster](/posters/2024_spring/natalia_pia_guerrero_trinidad_240409.pdf)    |
+| [Yu Na Lee](https://sites.google.com/view/yu-na-lee/home)     | University of Guelph   |   Apr. 23rd   |  Food Price and Child Marriage | [Poster](/posters/2024_spring/yu_na_lee_240423.pdf)    | 
 
 
 
@@ -72,13 +72,13 @@ Please find the current list of skills presenters below.
 
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
-| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)    |   Jan. 24th   |  Software to improve research efficiency: Onenote, Anki, estout | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Khoa Vu](https://sites.google.com/view/khoavu-umn/home)    |   Feb. 7th   |  Preparing for the Industry Job Market | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Jay Coggins](https://apec.umn.edu/people/jay-coggins)    |   Feb. 21st   |  Creating Theory in Practice: An Application from Environmental/Welfare Economics | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Thomas Durfee](https://sites.google.com/view/thomas-durfee/home)    |   Mar. 19th   |  The Basics of Unix Scripts and Batch Files | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Metin Cakir](https://apec.umn.edu/people/metin-cakir)    |   Apr. 2nd   |  Tips for Writing Competitive Grants | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| Jhih-Yun Liu, Caitlyn Keo, Thomas Durfee   |   Apr. 16th   |  Reflections and Advice about the Job Market | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Shunkei Kakimoto](https://apec.umn.edu/people/shunkei-kakimoto)    |   Apr. 30th   |  Introduction to Making Presentation Slides with Xaringan | [Poster](/posters/2024_spring/)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)    |   Jan. 24th   |  Software to improve research efficiency: Onenote, Anki, estout | [Poster](/posters/2024_spring/matt_bombyk_240124.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Khoa Vu](https://sites.google.com/view/khoavu-umn/home)    |   Feb. 7th   |  Preparing for the Industry Job Market | [Poster](/posters/2024_spring/khoa_vu_240207.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Jay Coggins](https://apec.umn.edu/people/jay-coggins)    |   Feb. 21st   |  Creating Theory in Practice: An Application from Environmental/Welfare Economics | [Poster](/posters/2024_spring/jay_coggins_240221.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Thomas Durfee](https://sites.google.com/view/thomas-durfee/home)    |   Mar. 19th   |  The Basics of Unix Scripts and Batch Files | [Poster](/posters/2024_spring/thomas_durfee_240319.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Metin Cakir](https://apec.umn.edu/people/metin-cakir)    |   Apr. 2nd   |  Tips for Writing Competitive Grants | [Poster](/posters/2024_spring/metin_cakir_240402.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| Jhih-Yun Liu, Caitlyn Keo, Thomas Durfee   |   Apr. 16th   |  Reflections and Advice about the Job Market | [Poster](/posters/2024_spring/job_market_240416.pdf)    | No Slides | [YouTube]() | 
+| [Shunkei Kakimoto](https://apec.umn.edu/people/shunkei-kakimoto)    |   Apr. 30th   |  Introduction to Making Presentation Slides with Xaringan | [Poster](/posters/2024_spring/shunkei_kakimoto_240430.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
 
 
 
