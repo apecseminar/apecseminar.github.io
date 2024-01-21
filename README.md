@@ -19,6 +19,8 @@ Connect with us:
 - Via [Twitter](https://twitter.com/apecmn) 
 - Via [YouTube](https://www.youtube.com/@APEC_Seminar)
 
+![](/images/seminar_action_2023.jpg)
+
 ## How to Participate 
 
 The seminar is aimed at graduate students (M.S. and Ph.D.) in the Applied Economics department at the University of Minnesota.
