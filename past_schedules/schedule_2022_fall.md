@@ -1,5 +1,7 @@
 # 2022 Fall Speaker Schedule
 
+## Student Seminar Schedule
+
 | **Speaker**      | **Affiliation** | **Date** | **Title** | 
 | :---        |    :----:   |   :----:   |    ---: |
 | [Stephen Pitts](https://apec.umn.edu/people/stephen-pitts)      | Applied Economics, UMN   |   Oct. 14th    |  Lessons Learned from Field Research Funded by CIFAP  |

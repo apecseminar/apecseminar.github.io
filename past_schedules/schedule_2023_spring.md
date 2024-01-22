@@ -1,5 +1,7 @@
 # 2023 Spring Speaker Schedule
 
+## Student Seminar Schedule
+
 | **Speaker**      | **Affiliation** | **Date** | **Title** | 
 | :---        |    :----:   |    :----:   |    ---: |
 | [Colette Salemi](https://colettesalemi.com/)      | University of Victoria   |   Feb. 9th   |  Does Perceived Labor Market Competition Increase Prejudice between Refugees and their Hosts? Evidence from Uganda and Ethiopia.   |
