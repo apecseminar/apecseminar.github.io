@@ -74,8 +74,8 @@ Please find the current list of skills presenters below.
 
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
-| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)    |   Jan. 24th   |  Software to improve research efficiency: Onenote, Anki, estout | [Poster](/posters/2024_spring/matt_bombyk_240124.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
-| [Khoa Vu](https://sites.google.com/view/khoavu-umn/home)    |   Feb. 7th   |  Preparing for the Industry Job Market | [Poster](/posters/2024_spring/khoa_vu_240207.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
+| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)    |   Jan. 24th   |  Software to improve research efficiency: Onenote, Anki, estout | [Poster](/posters/2024_spring/matt_bombyk_240124.pdf)    | [Estout Script](/slides/2024_spring/) | [YouTube]() | 
+| [Khoa Vu](https://sites.google.com/view/khoavu-umn/home)    |   Feb. 7th   |  Preparing for the Industry Job Market | [Poster](/posters/2024_spring/khoa_vu_240207.pdf)    | [Slides](/slides/2024_spring/slides_khoa_vu_240207.pdf) | [YouTube](https://www.youtube.com/watch?v=HqclX8GJzpw) | 
 | [Jay Coggins](https://apec.umn.edu/people/jay-coggins)    |   Feb. 21st   |  Creating Theory in Practice: An Application from Environmental/Welfare Economics | [Poster](/posters/2024_spring/jay_coggins_240221.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
 | [Thomas Durfee](https://sites.google.com/view/thomas-durfee/home)    |   Mar. 19th   |  The Basics of Unix Scripts and Batch Files | [Poster](/posters/2024_spring/thomas_durfee_240319.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
 | [Metin Cakir](https://apec.umn.edu/people/metin-cakir)    |   Apr. 2nd   |  Tips for Writing Competitive Grants | [Poster](/posters/2024_spring/metin_cakir_240402.pdf)    | [Slides](/slides/2024_spring/) | [YouTube]() | 
