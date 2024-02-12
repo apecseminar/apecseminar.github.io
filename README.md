@@ -98,11 +98,16 @@ Each Spring semeseter we hold a symposium to highlight the masters theses for gr
 This is a celebration of their work, as well as a friendly environment for students to practice their thesis before their oral defense.
 A list of previous symposiums can be found on the  [Past Symposiums](/past_schedules/schedule_ms_symposium.md) page. 
 
-The Spring 2024 MS Thesis Symposium will be held in Ruttan Hall 119 from 1 PM - 2 PM on April 12th. 
+The Spring 2024 MS Thesis Symposium will be held in Ruttan Hall B35 from 1 PM - 2 PM on April 5th. 
 
-<!-- | **Speaker**      | **Title** | 
+| **Speaker**      | **Title** | 
 | :---        |    ---: |
-| [Name]()     | Title      |  -->
+| [Jacob Harris](https://sustainable.umn.edu/jacob-harris)     | DICE-Py: Open Source Implementation and Enchancement of the DICE Model in Python     | 
+| [Joseph Whitney](https://apec.umn.edu/people/joseph-whitney)     | Effects of Institutional Spending on College Graduation & Retention Rates: Where Should Universities Spend Their Money?     | 
+| [Kristi Getschel](https://www.linkedin.com/in/kristi-getschel)     | The Growth Potential of Minnesota Aquaculture     | 
+| [Aiden Opatz](https://www.linkedin.com/in/aiden-opatz-754943227)     | Weathering the Storm: A Gravity Model Analysis of Hurricanes' Effect on Migration in the US     | 
+| [Derek Kelly](https://www.linkedin.com/in/derek-kelley-?trk=public_profile_samename-profile)     | FM360 Vendors' Experiences at Farmers Markets: 2016-2023     | 
+
 
 ## Seminar Organizer
 
