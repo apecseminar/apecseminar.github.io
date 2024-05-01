@@ -80,7 +80,7 @@ Please find the current list of skills presenters below.
 | [Thomas Durfee](https://sites.google.com/view/thomas-durfee/home)    |   Mar. 19th   |  The UMN Supercomputer and Large Dataset Best Practices | [Poster](/posters/2024_spring/thomas_durfee_240319.pdf)    | No Slides  | [YouTube Part 1](https://youtu.be/Uw6_cEdRh-I) [YouTube Part 2](https://youtu.be/mXPmBBrWPMQ) | 
 | [Metin Cakir](https://apec.umn.edu/people/metin-cakir)    |   Apr. 2nd   |  Tips for Writing Competitive Grants | [Poster](/posters/2024_spring/metin_cakir_240402.pdf)    | [Slides](/slides/2024_spring/slides_metin_cakir_240402.pdf) | [YouTube](https://youtu.be/M5WoN9-n6vo) | 
 | Jhih-Yun Liu, Thomas Durfee, Rebecca Weir   |   Apr. 16th   |  Reflections and Advice about the Job Market | [Poster](/posters/2024_spring/job_market_240416.pdf)    | No Slides | No Recording | 
-| [Shunkei Kakimoto](https://apec.umn.edu/people/shunkei-kakimoto)    |   Apr. 30th   |  Introduction to Making Presentation Slides with Xaringan | [Poster](/posters/2024_spring/shunkei_kakimoto_240430.pdf)    | [Github Repo]([/slides/2024_spring/](https://github.com/Shunkei3/APEC_xaringanPresentations)) | [YouTube](https://youtu.be/4vFSbJG34uk) | 
+| [Shunkei Kakimoto](https://apec.umn.edu/people/shunkei-kakimoto)    |   Apr. 30th   |  Introduction to Making Presentation Slides with Xaringan | [Poster](/posters/2024_spring/shunkei_kakimoto_240430.pdf)    | [Github Repo](https://github.com/Shunkei3/APEC_xaringanPresentations) | [YouTube](https://youtu.be/4vFSbJG34uk) | 
 
 
 
