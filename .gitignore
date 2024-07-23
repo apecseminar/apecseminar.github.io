@@ -33,10 +33,14 @@ __pycache__
 
 
 # Notes to detemine speakers, images, and expenses
-notes/
-images/
-expenses/
+/notes/
+/expenses/
+/reciepts/
+/grants/
 
-# Attendance 
-attendance/
+# Attendance
+/attendance/
+/images/profiles/
 
+
+/.quarto/

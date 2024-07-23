@@ -1,11 +1,20 @@
-# MS Thesis Symposiums
+---
+title: "Master's Thesis Symposium"
+comments: false
+---
 
-Below are a list of previous symposium presentations. 
+# Description
 
-<!-- ## 2025 -->
+Each Spring semeseter we hold a symposium to highlight the masters theses for graduating masters students in the Applied Economics (APEC) department. 
+This is a celebration of their work, as well as a friendly environment for students to practice their thesis before their oral defense.
 
+The Spring 2024 MS Thesis Symposium will be held in Ruttan Hall B35 from 1 PM - 2 PM on April 5th. 
 
-## 2024
+# 2025 MS Thesis Symposium
+
+Forthcoming...
+
+# 2024 MS Thesis Symposium
 
 [Here is a poster](../posters/ms_symposium/2024_symposium.pdf) from the event.
 

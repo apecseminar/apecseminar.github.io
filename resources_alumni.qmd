@@ -1,0 +1,10 @@
+---
+title: "Alumni Relations"
+comments: false
+---
+
+![](./images/underconstruction.webp)
+
+- whatever you want to do with this. 
+- Alumni network: facebook, linkedin
+- Meeting up at AEA, AAEA meetings (a cocktail hour or lunch for alumni present)

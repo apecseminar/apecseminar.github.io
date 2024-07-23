@@ -1,0 +1,69 @@
+project:
+  type: website
+
+website:
+  title: "Applied Economics Grad Club"
+  sidebar:
+    style: "floating"
+    search: true
+    border: true
+    collapse-level: 1
+    logo: /images/apec_logo.png
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: social.qmd
+        text: Social Calendar
+      - section: Resources
+        contents:
+          - href: resources_job.qmd
+            text: The Job Market
+          - href: resources_phd.qmd
+            text: PhD Students
+          - href: resources_ms.qmd
+            text: MS Students
+          - href: resources_international.qmd
+            text: International Students
+          - href: resources_dei.qmd
+            text: DEI
+          - href: resources_gluue.qmd
+            text: GLU-UE (Graduate Labor Union)
+          - href: resources_research.qmd
+            text: Research
+          - href: resources_teaching.qmd
+            text: Teaching
+          - href: resources_conferences.qmd
+            text: Conferences & Travel
+          - href: resources_funding.qmd
+            text: Funding
+          - href: resources_alumni.qmd
+            text: Alumni Relations
+      - section: Student Seminar
+        contents:
+          - href: seminar_main.qmd
+            text: Student Seminar & Workshop
+          - href: seminar_ms_symposium.qmd
+            text: MS Thesis Symposium
+          - href: seminar_past.qmd
+            text: Past Speaker Schedules
+      - section: Organizations/Groups
+        contents:
+          - href: group_women.qmd
+            text: Women In Economics
+          - href: group_behavior.qmd
+            text: Behavioral Economics Group
+          - href: group_labs.qmd
+            text: Research Labs
+          - href: group_efrogs.qmd
+            text: Economteric Frontiers Group (E-Frogs)
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
