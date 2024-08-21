@@ -8,6 +8,7 @@ comments: false
 
 The [Applied Economics Student Seminar Series](https://apecseminar.github.io/) presents applied economics research hosted by the University of Minnesota. 
 Speakers are primarly current and former students of the graduate program for Applied Economics at Minnesota. 
+Additionally, we feature other students in adjacent department of Economics, Business, Public Health, and Public Policy whose work has an applied focus.
 As such, it is a forum for early career researchers to get feedback on their work at varying stages. 
 This includes preliminary results to polished job market papers. 
 The APEC Student Seminar Series has a storied tradition within the department dating back to 2019 -- providing community and comradery amongst the graduate student body. 
@@ -20,13 +21,15 @@ The seminar is aimed at graduate students (M.S. and Ph.D.) in the Applied Econom
 But, we kindly welcome attendance from students and faculty throughout the University in other departments (e.g., Economics, Public Policy, Business, etc.), as well as other visiting scholars and alumni. 
 
 Members of the Applied Economics department will recieve notification of upcoming speakers via department announcements. 
-For those outside the department, please follow the latest announcements and news (house on this website) for information on attendance. 
+For those outside the department, please follow the latest announcements and news (housed on this website) for information on attendance. 
 
-The seminar is a one slot with a 40 minute presentation, 10 minutes of disscusant commentary and 10 minutes of general Q/A. Questions can respectfully asked throughout the presentation in a standard economics format. The seminar is offered both in-person and via online (viz., Zoom) attendance. Snack and goodies will be provided to in-person attendees in room 119 in Ruttan hall. The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
+The seminar is speaker slot with a 40 minute presentation, 10 minutes of disscusant commentary and 10 minutes of general Q/A. Questions can be respectfully asked throughout the presentation in a standard economics format. The seminar is offered both in-person and via online (viz., Zoom) attendance. 
+<!-- Snack and goodies will be provided to in-person attendees in room 119 in Ruttan hall.  -->
+The zoom link is a static url that will be sent out with announcements seperate of the posters. If you would like access to the link and do not receive departmental announcements, please reach out directly to the seminar organizer.
 
 # Speaker Schedule 
 
-**Student Seminars and the Skill Series will occur at 12 - 1 PM Central Time on Wednesdays and Tuesdays in Ruttan 119 and via Zoom.** Please note that due to schedule conflicts by the speakers, some presentions may be slightly before or after this time. 
+**Student Seminars and the Skill Series will occur at 11 AM - 12 PM Central Time on Wednesdays in Ruttan 119 and via Zoom.** Please note that due to schedule conflicts by the speakers, some presentions may be slightly before or after this time or in a different room. 
 
 For further details on each event, in the  'Agenda' view, simply click on the event and a dropdown should appear displaying information on the presenter, the topic, and the zoom link. If you don't want to miss any of the event, be sure to sync this calendar with your personal google calendar (Click the `+ Google Calendar` at the bottom).
 
@@ -35,16 +38,17 @@ For further details on each event, in the  'Agenda' view, simply click on the ev
 
 ## 2024 Fall Seminar Schedule
 
-<!-- | **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
+| **Speaker**      | **Affiliation** | **Date** | **Title** | **Link to Poster** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
-| [Corissa Marson](https://apec.umn.edu/people/corissa-marson)     | Applied Economics, UMN   |   Jan. 17th   |  How Does Information Avoidance Determine the Effect of Information on Consumer Willingness to Pay: A Case Study on Genetically Modified and Gene Edited Crops | [Poster](/posters/2024_spring/corissa_marson_240117.pdf)    |
-| [Haku Bo](https://www.linkedin.com/in/hakuub)     | Applied Economics, UMN   |   Jan. 31st   |  Net Incomes of Pastoralism and Its Influencers | [Poster](/posters/2024_spring/haku_bo_240131.pdf)    |
-| [SongYi Paik](https://www.songyipaik.com/)     | Applied Economics, UMN   |   Feb. 14th   |  Slow Violence of Waste: Evidence from Chinese Environmental Policy in Waste Trade | [Poster](/posters/2024_spring/songyi_paik_240214.pdf)    |
-| [Monique Davis](https://www.moniqueedavis.com/)     | Applied Economics, UMN   |   Feb. 28th   |  School Resource Officer Selection and Training on Racial Disparities in Exclusion | [Poster](/posters/2024_spring/monique_davis_240228.pdf)    |
-| [Kadidiatou (Kadidja) Doucouré](https://kadidjadoucoure.weebly.com/)     | Loyola University Maryland   |   Mar. 13th   |  Exchange Rate Regimes and Firms Performance: Evidence from West African Countries | [Poster](/posters/2024_spring/kadidja_doucoure_240313.pdf)    |
-| [Haishan Yang](https://au.linkedin.com/in/haishan-yang-a08b5412a)     | Public Health, UMN   |   Mar. 26th   |  Disaster and Disparity: The Heterogenous Effect of Hurricane Katrina on Rental Market | [Poster](/posters/2024_spring/haishan_yang_240326.pdf)    |
-| [Natalia Pia Guerrero Trinidad](https://apec.umn.edu/people/natalia-guerrero-trinidad)     | Applied Economics, UMN   |   Apr. 9th   |  The Role of Bonding and Bridging Social Capital by Non-State Social Structures: Evidence on Crime and Conflict in Peru | [Poster](/posters/2024_spring/natalia_pia_guerrero_trinidad_240409.pdf)    |
-| [Yu Na Lee](https://sites.google.com/view/yu-na-lee/home)     | University of Guelph   |   Apr. 23rd   |  Food Price and Child Marriage | [Poster](/posters/2024_spring/yu_na_lee_240423.pdf)    |  -->
+| [Ling Yao](https://apec.umn.edu/people/ling-yao)     | Applied Economics, UMN   |   Sept. 4th   |  Agricultural Mechanization and Structural Transformation | [Poster](/posters/2024_fall/ling_yao_240904.pdf)    |
+| [Lindsey Novak](https://www.lindseyknovak.com/)     | Reed College   |   Sept. 18th   |  Overall Research Agenda and Tips for the Job Market | [Poster](/posters/2024_fall/lindsey_novak_240918.pdf)    |
+| [Jiuchen Deng](https://sites.google.com/view/jiuchendeng/home)     | Applied Economics, UMN   |   Oct. 2nd  |  The Development of Personality Traits and Cognitive Skills in Adolescence: Evidence from a Skill Formation Model and a Control Function Approach | [Poster](/posters/2024_fall/jiuchen_deng_241002.pdf)    |
+| [Evan Cunningham](https://www.evanrcunningham.com/)     | Economics, UMN   |   Oct. 16th  |  Local Labor Market Effects of Amazon | [Poster](/posters/2024_fall/evan_cunningham_241016.pdf)    |
+| [Divya Pandey](https://divyapandey.me/)     | Applied Economics, UMN   |   Oct. 30th   |   The Impact of Weather Shocks on Fertility in Rural India | [Poster](/posters/2024_fall/divya_pandey_241030.pdf)    |
+| [Qingyin Cai](https://www.qingyincai.com/)     | Applied Economics, UMN   |   Nov. 13th   |  Drought and the Specialty Crop Production in California | [Poster](/posters/2024_fall/qingyin_cai_241113.pdf)    |
+| [Yanxu Long](https://yanxulong.github.io/)     | Applied Economics, UMN   |   Nov. 27th  |  Payments for Ecosystem Services, Reforestation and Rural Livelihoods | [Poster](/posters/2024_fall/yanxu_long_241127.pdf)    |
+| [Ana Melissa Perez](https://apec.umn.edu/people/ana-melissa-perez-castano)     | Applied Economics, UMN   |   Dec. 11th   |  Mass Shootings and their Effects on Food Shopping Behavior | [Poster](/posters/2024_fall/ana_melissa_perez_241211.pdf)    |
+
 
 
 # Skill Series
@@ -57,16 +61,17 @@ Please find the current list of skills presenters below.
 
 ## 2024 Fall Workshop Schedule
 
-<!-- 
+
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
-| [Matt Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)    |   Jan. 24th   |  Software to Improve Research Efficiency: Onenote, Anki, estout | [Poster](/posters/2024_spring/matt_bombyk_240124.pdf)    | [Estout Script](/slides/2024_spring/script_matt_bombyk_240124.do) [& Output](/slides/2024_spring/output_matt_bombyk_240124.pdf) | [YouTube](https://www.youtube.com/watch?v=BwbPJhKc0x0) | 
-| [Khoa Vu](https://sites.google.com/view/khoavu-umn/home)    |   Feb. 7th   |  Preparing for the Industry Job Market | [Poster](/posters/2024_spring/khoa_vu_240207.pdf)    | [Slides](/slides/2024_spring/slides_khoa_vu_240207.pdf) | [YouTube](https://www.youtube.com/watch?v=HqclX8GJzpw) | 
-| [Jay Coggins](https://apec.umn.edu/people/jay-coggins)    |   Feb. 21st   |  Creating Theory in Practice: An Application from Environmental/Welfare Economics | [Poster](/posters/2024_spring/jay_coggins_240221.pdf)    | [Slides](/slides/2024_spring/slides_jay_coggins_240221.pdf) | [YouTube](https://www.youtube.com/watch?v=-4Umg5mrVeQ) | 
-| [Thomas Durfee](https://sites.google.com/view/thomas-durfee/home)    |   Mar. 19th   |  The UMN Supercomputer and Large Dataset Best Practices | [Poster](/posters/2024_spring/thomas_durfee_240319.pdf)    | No Slides  | [YouTube Part 1](https://youtu.be/Uw6_cEdRh-I) [YouTube Part 2](https://youtu.be/mXPmBBrWPMQ) | 
-| [Metin Cakir](https://apec.umn.edu/people/metin-cakir)    |   Apr. 2nd   |  Tips for Writing Competitive Grants | [Poster](/posters/2024_spring/metin_cakir_240402.pdf)    | [Slides](/slides/2024_spring/slides_metin_cakir_240402.pdf) | [YouTube](https://youtu.be/M5WoN9-n6vo) | 
-| Jhih-Yun Liu, Thomas Durfee, Rebecca Weir   |   Apr. 16th   |  Reflections and Advice about the Job Market | [Poster](/posters/2024_spring/job_market_240416.pdf)    | No Slides | No Recording | 
-| [Shunkei Kakimoto](https://apec.umn.edu/people/shunkei-kakimoto)    |   Apr. 30th   |  Introduction to Making Presentation Slides with Xaringan | [Poster](/posters/2024_spring/shunkei_kakimoto_240430.pdf)    | [Github Repo](https://github.com/Shunkei3/APEC_xaringanPresentations) | [YouTube](https://youtu.be/4vFSbJG34uk) |  -->
+| [Yufeng Lai](https://www.laiyufeng.com/)    |   Sept. 11th |  Non-traditional skills for Economists to Deliver in the Tech Sector | [Poster](/posters/2024_fall/yufeng_lai_240911.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
+| [Abel Broduer](https://sites.google.com/site/abelbrodeur/)    |   Sept. 25th  |  Reproducibility, Replication Packets, and Pre-analysis Plans | [Poster](/posters/2024_fall/abel_broduer_240925.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
+| [Willy Lee](https://www.linkedin.com/in/willylee)    |   Oct. 9th  |  Diversity, Equity, and Inclusion (DEI) in Academia and DEI Statements for the Job Market | [Poster](/posters/2024_fall/willy_lee_241009.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
+| [Caroline Krafft](https://carolinekrafft.com/)    |   Oct. 23rd  |  Surveys Design | [Poster](/posters/2024_fall/caroline_krafft_241023.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
+| [Stephen Pitts](https://spittssj.github.io/)    |   Nov. 6th  |  Doubly Robust Estimator and Covariate Selection | [Poster](/posters/2024_fall/stephen_pitts_241106.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
+| [David Redish](https://med.umn.edu/bio/david-redish)    |   Nov. 20th  |  Applications of Neuroscience in Economics | [Poster](/posters/2024_fall/david_redish_241120.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
+| [Natalia Ordaz Reynoso](https://www.nataliaordazreynoso.com/)    |   Dec. 4th  |  Working in Tech Sector as an Economist | [Poster](/posters/2024_fall/natalia_ordaz_reynoso_241204.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
+
 
 
 # Seminar Organizers
@@ -99,6 +104,6 @@ And to the Applied Economics department for hosting the seminar space.
 
 # Funding
 
-The seminar series and skills workshop series is funded by the University of Minnesota's CFANS GSB Community Events and Projects Grant. 
+The seminar series and skills workshop series has been funded in previous semesters by the University of Minnesota's CFANS GSB Community Events and Projects Grant. 
 
 
