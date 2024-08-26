@@ -11,7 +11,9 @@ comments: false
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23E67C73&ctz=America%2FChicago&showTabs=1&showPrint=0&showNav=1&mode=AGENDA&src=Y2U5MjMwYmQwZWNkZWI0YjBlODg2MzcyYjAwN2YxNDk3NDU4ZGQwZjEwNDY5YWMxOWU3ZDVhZmJkYjMwNDUyZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
-# APEC Welcome Picnic
+# APEC Welcome Picnic/Cookout
+
+# APEC @ the Minnesota State Fair
 
 # Annual Awards Party
 
