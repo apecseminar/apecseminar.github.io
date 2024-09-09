@@ -7,6 +7,7 @@ comments: false
 
 Empowering Women in Applied Economics: Fostering a community of support, advocacy, and professional growth within our department. We are dedicated to promoting diversity, inclusivity, and gender equality, addressing challenges women face in the department. Our mission is to provide resources, mentorship, and opportunities for skill development, creating an environment where all women can thrive academically and professionally. We value collaboration, education, and sustainability, working towards a future where women's contributions to economics are equitably recognized, respected, and celebrated.
 
+
 # Purpose
 
 1. Empowerment and Support:
@@ -43,3 +44,6 @@ Anyone interested in engaging through a group forum should email women.in.apec.u
 
 [Twitter](https://x.com/Women_in_APEC): @Women_in_APEC
 [Instagram](https://www.instagram.com/women_in_apec/): @women_in_apec
+
+
+![image-1](images/women_apec_group.png) ![image-2](images/women_apec_lecture.png)

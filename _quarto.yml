@@ -50,7 +50,7 @@ website:
       - section: Organizations/Groups
         contents:
           - href: group_women.qmd
-            text: Women In Economics
+            text: Women In Applied Economics
           - href: group_behavior.qmd
             text: Behavioral Economics Group
           - href: group_labs.qmd
