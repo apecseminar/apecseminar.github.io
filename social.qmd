@@ -3,24 +3,35 @@ title: "Social Calendar"
 comments: false
 ---
 
-![](./images/underconstruction.webp)
-
-# Calendar
-
-- template from seminar. Make it clear people can sync this to their google calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23E67C73&ctz=America%2FChicago&showTabs=1&showPrint=0&showNav=1&mode=AGENDA&src=Y2U5MjMwYmQwZWNkZWI0YjBlODg2MzcyYjAwN2YxNDk3NDU4ZGQwZjEwNDY5YWMxOWU3ZDVhZmJkYjMwNDUyZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23616161" style="border-width:0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
 
 # APEC Welcome Picnic/Cookout
 
+The welcome picnic is an annual event hosted by the grad club that brings together the department at the start of the year -- typically in September. This is a good way for people to catch up after the summer and for new students to meet faculty and students in the department. 
+
+![](./images/social/event_picnic.png)
+
+![](./images/social/event_picnic_2022.jpg)
+
 # APEC @ the Minnesota State Fair
 
-# Annual Awards Party
+Usually the graduate students coordinate to attend the Minnesota State Fair on a weekend with the incoming PhD students each year. This is typically the weekends before the start of the semester in August prior to the start of the Fall semester. This is loosely coordinated by the graduate students and the instructors for the math/coding review camps. 
+
+![](./images/social/event_mn_state_fair.png)
+
+# Outstanding Alumni & Annual Awards Party
+
+Each year the department likes to honor past alumni. Additionally, they present awards to graduate students for achievements in research and teaching. This usually accompanies a cocktail hour that graduate students can socialize with faculty and alumni.
 
 # Winter Holiday Party
 
+Each year at the end of the semester we like to host a joint end of the year party between the APEC and AECM departments. There is usually an ugly sweater contest, and there is a white elephant for the administrative staff. 
+
+![](./images/event_end_of_year_party.jpg)
+
 # International Dinner
+
+At the end of the spring semester, the graduate club will host an international dinner. Given our multicultural department, the concept is for each person to bring a dish from their home country. Then we feast as a potluck dinner and celebrate the end of the academic year. 
 
 # CFANS Kickball
 
-- The Invisible Hands
+The CFANS graduate body has recently started to host an end of the year kickball tournament across the CFANS departments. In the past, the APEC department has had a good showing and have even won the kickball tournament. Traditionally, we have called ourselves "The Invisible Hands".
