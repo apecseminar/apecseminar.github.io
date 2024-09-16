@@ -26,7 +26,7 @@ Each year the department likes to honor past alumni. Additionally, they present 
 
 Each year at the end of the semester we like to host a joint end of the year party between the APEC and AECM departments. There is usually an ugly sweater contest, and there is a white elephant for the administrative staff. 
 
-![](./images/event_end_of_year_party.jpg)
+![](./images/social/event_end_of_year_party.jpg)
 
 # International Dinner
 
@@ -35,3 +35,5 @@ At the end of the spring semester, the graduate club will host an international 
 # CFANS Kickball
 
 The CFANS graduate body has recently started to host an end of the year kickball tournament across the CFANS departments. In the past, the APEC department has had a good showing and have even won the kickball tournament. Traditionally, we have called ourselves "The Invisible Hands".
+
+![](./images/social/event_kickball.jpg)
