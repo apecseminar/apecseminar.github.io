@@ -65,8 +65,8 @@ Please find the current list of skills presenters below.
 | **Speaker**      |  **Date** | **Title** | **Link to Poster** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
 | [Yufeng Lai](https://www.laiyufeng.com/)    |   Sept. 11th |  Non-traditional skills for Economists to Deliver in the Tech Sector | [Poster](/posters/2024_fall/yufeng_lai_240911.pdf)    | [Slides](/slides/2024_fall/slides_yufeng_lai_240911.pdf)  | [YouTube](https://www.youtube.com/watch?v=pSmrhKCYP84) | 
-| [Abel Broduer](https://sites.google.com/site/abelbrodeur/)    |   Sept. 25th  |  Reproducibility, Replication Packets, and Pre-analysis Plans | [Poster](/posters/2024_fall/abel_broduer_240925.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
-| [Willy Lee](https://www.linkedin.com/in/willylee)    |   Oct. 9th  |  Diversity, Equity, and Inclusion (DEI) in Academia and DEI Statements for the Job Market | [Poster](/posters/2024_fall/willy_lee_241009.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
+| [Abel Broduer](https://sites.google.com/site/abelbrodeur/)    |   Sept. 25th  |  Reproducibility, Replication Packets, and Pre-analysis Plans | [Poster](/posters/2024_fall/abel_broduer_240925.pdf)    | [Slides](/slides/2024_fall/slides_abel_broduer_240925.pdf)  | [YouTube](https://youtu.be/Sgc8DDrqKes) | 
+| [Willy Lee](https://www.linkedin.com/in/willylee)    |   Oct. 9th  |  Diversity, Equity, and Inclusion (DEI) in Academia and DEI Statements for the Job Market | [Poster](/posters/2024_fall/willy_lee_241009.pdf)    | [Slides](https://docs.google.com/presentation/d/1_h7-TRhrEtxLRRf_VDQdV52Nkq250W0DHdLA49s44es/edit?usp=sharing)  | [YouTube]() | 
 | [Caroline Krafft](https://carolinekrafft.com/)    |   Oct. 23rd  |  Survey Design | [Poster](/posters/2024_fall/caroline_krafft_241023.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
 | [Stephen Pitts](https://spittssj.github.io/)    |   Nov. 6th  |  Doubly Robust Estimator and Covariate Selection | [Poster](/posters/2024_fall/stephen_pitts_241106.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
 | [David Redish](https://med.umn.edu/bio/david-redish)    |   Nov. 20th  |  Why Economists Need to Know the Neuroscience | [Poster](/posters/2024_fall/david_redish_241120.pdf)    | [Slides](/slides/2024_fall/)  | [YouTube]() | 
@@ -85,7 +85,7 @@ The following is a list of the previous organizers of the APEC Seminar Series.
 | **Organizers**      | **Sessions** | 
 |   :----:   |     :----:   | 
 | [Carmen Raquel Rosario Armas Montalvo](https://www.linkedin.com/in/carmen-armas-montalvo/en)     | 2024 -- Present       | 
-| [Ryan McWay](https://mcwayrm.github.io/)     | 2023 -- Present       | 
+| [Ryan McWay](https://mcwayrm.github.io/)     | 2023 -- 2025       | 
 | [Yanxu Long](https://yanxulong.github.io/)     | 2023       |  
 | [Matthew Bombyk](https://www.linkedin.com/in/matthew-bombyk-33b09642)     | 2022 -- 2023       |  
 | [Chris Boyd](https://www.chrismboyd.com/)   | 2021 -- 2022    | 
