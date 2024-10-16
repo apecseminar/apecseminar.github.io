@@ -37,3 +37,8 @@ At the end of the spring semester, the graduate club will host an international 
 The CFANS graduate body has recently started to host an end of the year kickball tournament across the CFANS departments. In the past, the APEC department has had a good showing and have even won the kickball tournament. Traditionally, we have called ourselves "The Invisible Hands".
 
 ![](./images/social/event_kickball.jpg)
+
+
+# Economics Noble Prize Prediction Competition
+
+Each year the Nobel Prize in economics is announced in the Fall semester. As a department, we run a common poll to predict which economist will recieve the award, and hold a small celebration for anyone who correctly guesses the new Nobel Laureate. It is also a neat way to learn about amazing economists that are outside of your field. In the past, we have used the following [google sheet to poll predictions](https://docs.google.com/spreadsheets/d/1LmIVD58X3j1C8oJ6xaXy906whBPY_jTlOhQZ_v7B1_U/edit?gid=0#gid=0).
