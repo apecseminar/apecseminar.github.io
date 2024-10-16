@@ -3,6 +3,7 @@ title: "Social Calendar"
 comments: false
 ---
 
+Events are listed in chronological order as they occur throughout the academic year. 
 
 # APEC Welcome Picnic/Cookout
 
@@ -17,6 +18,11 @@ The welcome picnic is an annual event hosted by the grad club that brings togeth
 Usually the graduate students coordinate to attend the Minnesota State Fair on a weekend with the incoming PhD students each year. This is typically the weekends before the start of the semester in August prior to the start of the Fall semester. This is loosely coordinated by the graduate students and the instructors for the math/coding review camps. 
 
 ![](./images/social/event_mn_state_fair.png)
+
+
+# Economics Noble Prize Prediction Competition
+
+Each year the Nobel Prize in economics is announced in the Fall semester. As a department, we run a common poll to predict which economist will recieve the award, and hold a small celebration for anyone who correctly guesses the new Nobel Laureate. It is also a neat way to learn about amazing economists that are outside of your field. In the past, we have used the following [google sheet to poll predictions](https://docs.google.com/spreadsheets/d/1LmIVD58X3j1C8oJ6xaXy906whBPY_jTlOhQZ_v7B1_U/edit?gid=0#gid=0).
 
 # Outstanding Alumni & Annual Awards Party
 
@@ -38,7 +44,3 @@ The CFANS graduate body has recently started to host an end of the year kickball
 
 ![](./images/social/event_kickball.jpg)
 
-
-# Economics Noble Prize Prediction Competition
-
-Each year the Nobel Prize in economics is announced in the Fall semester. As a department, we run a common poll to predict which economist will recieve the award, and hold a small celebration for anyone who correctly guesses the new Nobel Laureate. It is also a neat way to learn about amazing economists that are outside of your field. In the past, we have used the following [google sheet to poll predictions](https://docs.google.com/spreadsheets/d/1LmIVD58X3j1C8oJ6xaXy906whBPY_jTlOhQZ_v7B1_U/edit?gid=0#gid=0).
