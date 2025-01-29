@@ -3,6 +3,22 @@ title: "Past Seminar & Workshop Series"
 comments: false
 ---
 
+# 2025 Spring Speaker Schedule
+
+<!-- ## Student Seminar Schedule -->
+
+<!-- | **Speaker**      | **Affiliation** | **Date** | **Title** |
+| :---        |    :----:   |   :----:   |    :----:   |    ---: |
+| [Ling Yao](https://apec.umn.edu/people/ling-yao)     | Applied Economics, UMN   |   Sept. 4th   |  Agricultural Mechanization and Structural Transformation | -->
+
+
+## Skills Workshop Schedule
+
+| **Speaker**      |  **Date** | **Title** |  **Link to Materials/Slides** |  **Presentation Recording** |
+| :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
+| [Raahil Madhok](https://www.raahilmadhok.com/)    |   Jan. 29th |  Using the Bartik Instrument Variable (Shift-share IV) | [Poster](/posters/2024_fall/yufeng_lai_240911.pdf)    | [Slides](/slides/2025_spring/slides_raahil_madhok_250129.pdf)  | [YouTube]() | 
+
+
 
 # 2024 Fall Speaker Schedule
 

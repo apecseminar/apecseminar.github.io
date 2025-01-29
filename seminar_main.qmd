@@ -4,7 +4,7 @@ subtitle: "At the University of Minnesota"
 comments: false
 ---
 
-# Description: 
+# Description:
 
 The [Applied Economics Student Seminar Series](https://apecseminar.github.io/) presents applied economics research hosted by the University of Minnesota. 
 Speakers are primarly current and former students of the graduate program for Applied Economics at Minnesota. 
