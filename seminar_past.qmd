@@ -15,8 +15,8 @@ comments: false
 ## Skills Workshop Schedule
 
 | **Speaker**      |  **Date** | **Title** |  **Link to Materials/Slides** |  **Presentation Recording** |
-| :---        |    :----:   |    :----:   |    :----:   |    :----:   |    ---: |
-| [Raahil Madhok](https://www.raahilmadhok.com/)    |   Jan. 29th |  Using the Bartik Instrument Variable (Shift-share IV) | [Poster](/posters/2024_fall/yufeng_lai_240911.pdf)    | [Slides](/slides/2025_spring/slides_raahil_madhok_250129.pdf)  | [YouTube]() | 
+| :---        |    :----:   |    :----:   |    :----:   |    ---: |
+| [Raahil Madhok](https://www.raahilmadhok.com/)    |   Jan. 29th |  Using the Bartik Instrument Variable (Shift-share IV)   | [Slides](/slides/2025_spring/slides_raahil_madhok_250129.pdf)  | [YouTube]() | 
 
 
 
