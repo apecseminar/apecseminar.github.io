@@ -16,7 +16,7 @@ comments: false
 
 | **Speaker**      |  **Date** | **Title** |  **Link to Materials/Slides** |  **Presentation Recording** |
 | :---        |    :----:   |    :----:   |    :----:   |    ---: |
-| [Raahil Madhok](https://www.raahilmadhok.com/)    |   Jan. 29th |  Using the Bartik Instrument Variable (Shift-share IV)   | [Slides](/slides/2025_spring/slides_raahil_madhok_250129.pdf)  | [YouTube]() | 
+| [Raahil Madhok](https://www.raahilmadhok.com/)    |   Jan. 29th |  Using the Bartik Instrument Variable (Shift-share IV)   | [Slides](/slides/2025_spring/slides_raahil_madhok_250129.pdf)  | [YouTube](https://www.youtube.com/watch?v=sdyd7HN8A0M) | 
 
 
 
