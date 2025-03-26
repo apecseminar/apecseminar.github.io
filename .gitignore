@@ -37,6 +37,7 @@ __pycache__
 /reciepts/
 /grants/
 /videos/
+videos/songs_used.html
 
 # Attendance
 /attendance/
