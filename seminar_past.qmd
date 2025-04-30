@@ -5,11 +5,11 @@ comments: false
 
 # 2025 Spring Speaker Schedule
 
-<!-- ## Student Seminar Schedule -->
+## Student Seminar Schedule
 
-<!-- | **Speaker**      | **Affiliation** | **Date** | **Title** |
+| **Speaker**      | **Affiliation** | **Date** | **Title** |
 | :---        |    :----:   |   :----:   |    :----:   |    ---: |
-| [Ling Yao](https://apec.umn.edu/people/ling-yao)     | Applied Economics, UMN   |   Sept. 4th   |  Agricultural Mechanization and Structural Transformation | -->
+| [Sarah Wahby](https://www.hhh.umn.edu/doctor-philosophy-phd-public-affairs/phd-students/sarah-wahby)     | Public Affairs, UMN   |   Apr. 30th   | Climate change, migration and conflict in Sudan |
 
 
 ## Skills Workshop Schedule
@@ -19,6 +19,7 @@ comments: false
 | [Raahil Madhok](https://www.raahilmadhok.com/)    |   Jan. 29th |  Using the Bartik Instrumental Variable (Shift-share IV)   | [Slides](/slides/2025_spring/slides_raahil_madhok_250129.pdf)  | [YouTube](https://www.youtube.com/watch?v=sdyd7HN8A0M) | 
 | [Paul Glewwe](https://apec.umn.edu/people/paul-glewwe)    |   Mar. 26th |  Fieldwork Management   | [Slides](/slides/2025_spring/slides_paul_glewwe_250326.pdf)  | [YouTube](https://youtu.be/WkXxUJJhqNI) | 
 | [Ling Yao](https://apec.umn.edu/people/paul-glewwe)    |   Apr. 2nd |  Teaching as a Graduate Student   | [Slides](/slides/2025_spring/slides_ling_yao_250402.pdf)  | [YouTube](https://youtu.be/xSrr-3vFa_I) | 
+| Monique Davis, Becca Weir, Yanxu Long, Ling Yao, Divya Pandey  |   May 7th   |  Reflections and Advice about the Job Market |  No Slides | No Recording |
 
 
 
